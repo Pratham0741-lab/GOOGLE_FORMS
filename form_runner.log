@@ -1,0 +1,595 @@
+[2026-08-26 12:51:54] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 12:51:54] [INFO] Launching browser 'Google Chrome (Installed)' (channel=chrome, headless=True)...
+[2026-08-26 12:51:55] [INFO] Navigating to form URL (headless=True, timeout=30000ms)...
+[2026-08-26 12:52:01] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 12:52:01] [INFO] Processing form Page #1...
+[2026-08-26 12:52:02] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 12:52:03] [INFO]   └ Chosen answer: N/A (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxUbzpGPq31rL5U5fRx'})
+[2026-08-26 12:52:03] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 12:52:03] [INFO]   └ Chosen answer: Look Who's Talking (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxUe1N6RX412ABGxaXC'})
+[2026-08-26 12:52:03] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 12:52:07] [INFO]   └ Chosen answer: Fezzick (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxUwgzXgRuK3UFfeUaw'})
+[2026-08-26 12:52:07] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 12:52:08] [INFO]   └ Chosen answer: to Boston (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxUyJEEVeZZiJq15Uq1'})
+[2026-08-26 12:52:08] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 12:52:08] [INFO]   └ Chosen answer: The FBI (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxV1QEbMrf1uxkEhzGf'})
+[2026-08-26 12:52:08] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 12:52:13] [INFO]   └ Chosen answer: Duran Duran (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxVNP3pcdY17xixcJHv'})
+[2026-08-26 12:52:13] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 12:52:14] [INFO]   └ Chosen answer: The Alamo (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxVQ3Fuv1EfST6ga47m'})
+[2026-08-26 12:52:14] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 12:52:14] [INFO]   └ Chosen answer: Alabama (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxVRgEPTtLbP8ZfiTDn'})
+[2026-08-26 12:52:14] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 12:52:16] [INFO]   └ Chosen answer: The Fonz (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxVbuPjQEEbMP8oVK22'})
+[2026-08-26 12:52:16] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 12:52:17] [INFO]   └ Chosen answer: The Everworld (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQxVdkGLkddZCvof27mi'})
+[2026-08-26 12:52:50] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 12:53:20] [ERROR] Playwright automation error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Submit\"), input[type=\"submit\"], div[role=\"button\"]:has-text(\"Submit\"), span:has-text(\"Submit\"), div[role=\"button\"]:has-text(\"Send\"), span:has-text(\"Send\"), div[jsname=\"M2vTeb\"]").first
+    - locator resolved to <div jsshadow="" role="button" tabindex="-1" jsname="M2UYVd" aria-label="Submit" aria-disabled="true" jscontroller="VXdfxd" class="uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd RDPZE" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+Traceback (most recent call last):
+  File "D:\PROJECTS\GOOGLEFORMS\main.py", line 208, in run
+    sub_result = await self.filler.submit_form(page, dry_run=self.dry_run)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS\GOOGLEFORMS\form_filler.py", line 376, in submit_form
+    await submit_btn.click()
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\async_api\_generated.py", line 17894, in click
+    await self._impl_obj.click(
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_locator.py", line 165, in click
+    return await self._frame._click(self._selector, strict=True, **params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_frame.py", line 593, in _click
+    await self._channel.send("click", self._timeout, locals_to_params(locals()))
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Submit\"), input[type=\"submit\"], div[role=\"button\"]:has-text(\"Submit\"), span:has-text(\"Submit\"), div[role=\"button\"]:has-text(\"Send\"), span:has-text(\"Send\"), div[jsname=\"M2vTeb\"]").first
+    - locator resolved to <div jsshadow="" role="button" tabindex="-1" jsname="M2UYVd" aria-label="Submit" aria-disabled="true" jscontroller="VXdfxd" class="uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd RDPZE" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+[2026-08-26 12:53:20] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_125320.json
+[2026-08-26 12:53:20] [ERROR] Execution terminated with error: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Submit\"), input[type=\"submit\"], div[role=\"button\"]:has-text(\"Submit\"), span:has-text(\"Submit\"), div[role=\"button\"]:has-text(\"Send\"), span:has-text(\"Send\"), div[jsname=\"M2vTeb\"]").first
+    - locator resolved to <div jsshadow="" role="button" tabindex="-1" jsname="M2UYVd" aria-label="Submit" aria-disabled="true" jscontroller="VXdfxd" class="uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd RDPZE" jsaction="click:cOuCgd; mousedown:UX7yZ; mouseup:lbsD7e; mouseenter:tfO1Yc; mouseleave:JywGue;touchstart:p6p2H; touchmove:FwuNnf; touchend:yfqBxc(preventDefault=true); touchcancel:JMtRjd;focus:AHmuwe; blur:O22p3e; contextmenu:mg9Pef;">…</div>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    57 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+[2026-08-26 12:59:11] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 12:59:11] [INFO] [Playwright Browser Init] Launching isolated browser 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=True)...
+[2026-08-26 12:59:11] [INFO] [Playwright Context] Created fresh isolated browser context.
+[2026-08-26 12:59:11] [INFO] [Playwright Page Status] Controlling dedicated page instance (headless=True, viewport=1280x900)
+[2026-08-26 12:59:11] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 12:59:18] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 12:59:18] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 12:59:18] [INFO] Processing form Page #1...
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: Automated test response (Reasoning: Mock generated response for short_answer question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: Look Who's Talking (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Search performed for 'Who killed Inigo Montoya's father?' -> 1 snippets used
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: Fezzick (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: to Boston (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: The FBI (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Search performed for 'Harry Styles was once a member of which of the following boy bands' -> 1 snippets used
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: Duran Duran (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: The Alamo (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: Alabama (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Search performed for 'Who is this?' -> 1 snippets used
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: The Fonz (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:19] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 12:59:19] [INFO]   └ Chosen answer: The Everworld (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:46] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 12:59:47] [INFO] [Playwright Browser Init] Launching isolated browser 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=True)...
+[2026-08-26 12:59:47] [INFO] [Playwright Context] Created fresh isolated browser context.
+[2026-08-26 12:59:47] [INFO] [Playwright Page Status] Controlling dedicated page instance (headless=True, viewport=1280x900)
+[2026-08-26 12:59:47] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 12:59:51] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 12:59:51] [INFO] Run finished in 40.54s. Total Questions: 10, Status: dry_run_success
+[2026-08-26 12:59:52] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_125952.json
+[2026-08-26 12:59:52] [INFO] Dry-run execution completed cleanly. Exit code 2.
+[2026-08-26 12:59:54] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 12:59:54] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 12:59:54] [INFO] Processing form Page #1...
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: Automated test response (Reasoning: Mock generated response for short_answer question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (1 snippets)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: Fezzick (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: to Boston (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: The FBI (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (1 snippets)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: Duran Duran (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: The Alamo (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: Alabama (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Search performed for 'Who is this?' (1 snippets)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: The Fonz (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 12:59:54] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 12:59:54] [INFO]   -> Chosen answer: The Everworld (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:13] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:00:13] [INFO] [Playwright Browser Init] Launching isolated browser 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=True)...
+[2026-08-26 13:00:13] [INFO] [Playwright Context] Created fresh isolated browser context.
+[2026-08-26 13:00:13] [INFO] [Playwright Page Status] Controlling dedicated page instance (headless=True, viewport=1280x900)
+[2026-08-26 13:00:13] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:00:20] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:00:20] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:00:20] [INFO] Processing form Page #1...
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: Automated test response (Reasoning: Mock generated response for short_answer question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (1 snippets)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: Fezzick (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: to Boston (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: The FBI (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (1 snippets)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: Duran Duran (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: The Alamo (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: Alabama (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Search performed for 'Who is this?' (1 snippets)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: The Fonz (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:20] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:00:20] [INFO]   -> Chosen answer: The Everworld (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:00:23] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 13:00:23] [INFO] Run finished in 9.99s. Total Questions: 10, Status: dry_run_success
+[2026-08-26 13:00:23] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_130023.json
+[2026-08-26 13:00:23] [INFO] Dry-run execution completed cleanly. Exit code 2.
+[2026-08-26 13:00:27] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 13:00:27] [INFO] Run finished in 40.25s. Total Questions: 10, Status: dry_run_success
+[2026-08-26 13:00:27] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_130027.json
+[2026-08-26 13:00:27] [INFO] Dry-run execution completed cleanly. Exit code 2.
+[2026-08-26 13:01:00] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:01:01] [INFO] [Playwright Browser Init] Launching isolated browser 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=True)...
+[2026-08-26 13:01:01] [INFO] [Playwright Context] Created fresh isolated browser context.
+[2026-08-26 13:01:01] [INFO] [Playwright Page Status] Controlling dedicated page instance (headless=True, viewport=1280x900)
+[2026-08-26 13:01:01] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:01:06] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:01:06] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:01:06] [INFO] Processing form Page #1...
+[2026-08-26 13:01:07] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:01:07] [INFO]   -> Chosen answer: N/A (Reasoning: Fallback due to API error: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CeQyAje4Xt4CUL3NeCYPc'})
+[2026-08-26 13:01:07] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:01:16] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_130116.json
+[2026-08-26 13:03:22] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:03:22] [INFO] [Playwright Browser Init] Launching isolated browser 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:03:22] [INFO] [Playwright Context] Created fresh isolated browser context.
+[2026-08-26 13:03:22] [INFO] [Playwright Page Status] Controlling dedicated page instance (headless=False, viewport=1280x900)
+[2026-08-26 13:03:22] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:03:28] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:03:28] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:03:28] [INFO] Processing form Page #1...
+[2026-08-26 13:03:28] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:03:29] [INFO]   -> Chosen answer: Sample response (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:29] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:03:29] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:29] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:03:31] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (3 snippets)
+[2026-08-26 13:03:31] [INFO]   -> Chosen answer: Fezzick (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:31] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:03:31] [INFO]   -> Chosen answer: to Boston (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:31] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:03:31] [INFO]   -> Chosen answer: The FBI (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:31] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:03:36] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (3 snippets)
+[2026-08-26 13:03:36] [INFO]   -> Chosen answer: One Direction (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:36] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:03:36] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:36] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:03:37] [INFO]   -> Chosen answer: Alabama (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:37] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:03:39] [INFO]   -> Search performed for 'Who is this?' (3 snippets)
+[2026-08-26 13:03:39] [INFO]   -> Chosen answer: The Fonz (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:39] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:03:39] [INFO]   -> Chosen answer: The Everworld (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:03:43] [INFO] Page #1 completed. Advancing to next section...
+[2026-08-26 13:03:44] [INFO] Processing form Page #2...
+[2026-08-26 13:03:52] [WARNING] No questions extracted on page #2. Checking submission button...
+[2026-08-26 13:03:52] [INFO] Page #2 completed. Advancing to next section...
+[2026-08-26 13:03:52] [INFO] Processing form Page #3...
+[2026-08-26 13:04:00] [WARNING] No questions extracted on page #3. Checking submission button...
+[2026-08-26 13:04:00] [INFO] Page #3 completed. Advancing to next section...
+[2026-08-26 13:04:01] [INFO] Processing form Page #4...
+[2026-08-26 13:04:09] [WARNING] No questions extracted on page #4. Checking submission button...
+[2026-08-26 13:04:09] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 13:04:09] [INFO] Run finished in 47.45s. Total Questions: 10, Status: error_submit_button_not_found
+[2026-08-26 13:04:09] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_130409.json
+[2026-08-26 13:04:09] [INFO] Automation completed successfully. Exit code 0.
+[2026-08-26 13:07:03] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:07:03] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:07:03] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:07:04] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:07:04] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:07:08] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:07:08] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:07:08] [INFO] Processing form Page #1...
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: Automated test response (Reasoning: Mock generated response for short_answer question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (1 snippets)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: Fezzick (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: to Boston (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: The FBI (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (1 snippets)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: Duran Duran (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: The Alamo (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: Alabama (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Search performed for 'Who is this?' (1 snippets)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: The Fonz (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:09] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:07:09] [INFO]   -> Chosen answer: The Everworld (Reasoning: Mock generated response for multiple_choice question)
+[2026-08-26 13:07:13] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 13:07:13] [INFO] Run finished in 10.06s. Total Questions: 10, Status: dry_run_success
+[2026-08-26 13:07:13] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_130713.json
+[2026-08-26 13:07:13] [INFO] Dry-run execution completed cleanly. Exit code 2.
+[2026-08-26 13:09:53] [INFO] Starting interactive login session for browser 'chrome'...
+[2026-08-26 13:09:53] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:09:53] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:09:54] [INFO] Opening login page: https://accounts.google.com/ServiceLogin
+[2026-08-26 13:10:48] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/.../viewform
+[2026-08-26 13:10:49] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:10:49] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:10:49] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:10:49] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/.../viewform
+[2026-08-26 13:10:53] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/.../viewform?pli=1&authuser=0 | Page Title: 'Page Not Found'
+[2026-08-26 13:10:53] [INFO] Loaded Form: 'Page Not Found'
+[2026-08-26 13:10:53] [INFO] Processing form Page #1...
+[2026-08-26 13:10:56] [ERROR] Playwright automation error: Locator.count: Target page, context or browser has been closed
+Traceback (most recent call last):
+  File "D:\PROJECTS\GOOGLEFORMS\main.py", line 175, in run
+    questions = await self.scraper.extract_questions(page)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS\GOOGLEFORMS\form_scraper.py", line 127, in extract_questions
+    total_containers = await containers.count()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\async_api\_generated.py", line 19154, in count
+    return mapping.from_maybe_impl(await self._impl_obj.count())
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_locator.py", line 429, in count
+    return await self._frame._query_count(self._selector)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_frame.py", line 139, in _query_count
+    return await self._channel.send("queryCount", None, {"selector": selector})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Locator.count: Target page, context or browser has been closed
+[2026-08-26 13:10:56] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_131056.json
+[2026-08-26 13:10:57] [ERROR] Execution terminated with error: Locator.count: Target page, context or browser has been closed
+[2026-08-26 13:10:58] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/.../viewform
+[2026-08-26 13:10:58] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:10:58] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:10:58] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:10:58] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/.../viewform
+[2026-08-26 13:10:59] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/.../viewform | Page Title: 'Page Not Found'
+[2026-08-26 13:10:59] [INFO] Loaded Form: 'Page Not Found'
+[2026-08-26 13:10:59] [INFO] Processing form Page #1...
+[2026-08-26 13:11:02] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_131102.json
+[2026-08-26 13:11:16] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:11:16] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:11:16] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:11:16] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:11:16] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:11:21] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:11:21] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:11:21] [INFO] Processing form Page #1...
+[2026-08-26 13:11:21] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:11:22] [INFO]   -> Chosen answer: Sample response (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:22] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:11:22] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:22] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:11:26] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (3 snippets)
+[2026-08-26 13:11:26] [INFO]   -> Chosen answer: Fezzick (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:26] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:11:26] [INFO]   -> Chosen answer: to Boston (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:26] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:11:27] [INFO]   -> Chosen answer: The FBI (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:27] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:11:29] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (3 snippets)
+[2026-08-26 13:11:29] [INFO]   -> Chosen answer: One Direction (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:29] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:11:30] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:30] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:11:30] [INFO]   -> Chosen answer: Alabama (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:30] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:11:33] [INFO]   -> Search performed for 'Who is this?' (3 snippets)
+[2026-08-26 13:11:33] [INFO]   -> Chosen answer: The Fonz (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:33] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:11:34] [INFO]   -> Chosen answer: The Everworld (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:11:39] [INFO] Final page reached. Initiating submission handler...
+[2026-08-26 13:11:39] [INFO] Run finished in 22.79s. Total Questions: 10, Status: dry_run_success
+[2026-08-26 13:11:39] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_131139.json
+[2026-08-26 13:11:39] [INFO] Dry-run execution completed cleanly. Exit code 2.
+[2026-08-26 13:13:46] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:13:47] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:13:47] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:13:47] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:13:47] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:13:50] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:13:50] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:13:50] [INFO] Processing form Page #1...
+[2026-08-26 13:13:50] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:13:51] [INFO]   -> Chosen answer: Sample response (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:13:51] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:13:52] [INFO]   -> Chosen answer: Look Who's Talking (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:13:52] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:13:58] [INFO]   -> Search performed for 'Who killed Inigo Montoya's father?' (3 snippets)
+[2026-08-26 13:13:58] [INFO]   -> Chosen answer: Fezzick (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:13:58] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:13:58] [INFO]   -> Chosen answer: to Boston (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:13:58] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:13:58] [INFO]   -> Chosen answer: The FBI (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:13:58] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:14:01] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (3 snippets)
+[2026-08-26 13:14:01] [INFO]   -> Chosen answer: One Direction (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:14:01] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:14:01] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:14:01] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:14:01] [INFO]   -> Chosen answer: Alabama (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:14:01] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:14:08] [INFO]   -> Search performed for 'Who is this?' (3 snippets)
+[2026-08-26 13:14:08] [INFO]   -> Chosen answer: The Fonz (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:14:08] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:14:08] [INFO]   -> Chosen answer: The Everworld (Reasoning: Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...))
+[2026-08-26 13:14:13] [INFO] Form filled successfully! Auto-submit is disabled.
+[2026-08-26 13:14:13] [INFO] Run finished in 26.3s. Total Questions: 10, Status: filled_ready_for_review
+[2026-08-26 13:14:43] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_131443.json
+[2026-08-26 13:14:43] [INFO] Automation completed successfully. Exit code 0.
+[2026-08-26 13:19:02] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:19:02] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:19:02] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:19:02] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:19:02] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:19:07] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:19:07] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:19:07] [INFO] Processing form Page #1...
+[2026-08-26 13:19:07] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:19:07] [INFO]   -> Chosen answer: Player 1 (Reasoning: Personal/demographic standard input)
+[2026-08-26 13:19:07] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:19:11] [INFO]   -> Search performed for 'What movie does this quote come from   Nobody puts Baby in a corner.' (6 snippets)
+[2026-08-26 13:19:11] [INFO]   -> Chosen answer: Dirty Dancing (Reasoning: Search grounded ranking (Score: 248.0))
+[2026-08-26 13:19:11] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:19:17] [INFO]   -> Search performed for 'Who killed Inigo Montoya s father' (6 snippets)
+[2026-08-26 13:19:17] [INFO]   -> Chosen answer: The Six Fingered Man (Reasoning: Search grounded ranking (Score: 54.5))
+[2026-08-26 13:19:17] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:19:19] [INFO]   -> Search performed for 'Finish the lyrics   Just a small town girl, living in a lonely world. She took the midnight train going' (6 snippets)
+[2026-08-26 13:19:19] [INFO]   -> Chosen answer: anywhere (Reasoning: Search grounded ranking (Score: 242.5))
+[2026-08-26 13:19:19] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:19:21] [INFO]   -> Search performed for 'In the movie  Independence Day,  Will Smith recieves a rejection letter from which US governement program' (6 snippets)
+[2026-08-26 13:19:21] [INFO]   -> Chosen answer: The CIA (Reasoning: Search grounded ranking (Score: 9.0))
+[2026-08-26 13:19:21] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:19:22] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (6 snippets)
+[2026-08-26 13:19:22] [INFO]   -> Chosen answer: One Direction (Reasoning: Search grounded ranking (Score: 228.0))
+[2026-08-26 13:19:22] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:19:26] [INFO]   -> Search performed for 'Where did Pee Wee Herman think his stolen bike was hidden' (6 snippets)
+[2026-08-26 13:19:26] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search grounded ranking (Score: 49.0))
+[2026-08-26 13:19:26] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:19:30] [INFO]   -> Search performed for 'What state is this  (Hint  This is where TWD is filmed)' (6 snippets)
+[2026-08-26 13:19:30] [INFO]   -> Chosen answer: Georgia (Reasoning: Search grounded ranking (Score: 178.0))
+[2026-08-26 13:19:30] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:19:37] [INFO]   -> Search performed for 'Who is this' (6 snippets)
+[2026-08-26 13:19:37] [INFO]   -> Chosen answer: The Fonz (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:19:37] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:19:46] [INFO]   -> Search performed for 'What is the alternate world called in' (6 snippets)
+[2026-08-26 13:19:46] [INFO]   -> Chosen answer: The Other Side (Reasoning: Search grounded ranking (Score: 13.5))
+[2026-08-26 13:20:59] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:20:59] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:20:59] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:20:59] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:20:59] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:21:01] [ERROR] Playwright automation error: Page.goto: net::ERR_ABORTED at https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+Call log:
+  - navigating to "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform", waiting until "load"
+Traceback (most recent call last):
+  File "D:\PROJECTS\GOOGLEFORMS\main.py", line 140, in run
+    await page.goto(self.url, wait_until="load", timeout=self.timeout_ms)
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\async_api\_generated.py", line 9869, in goto
+    await self._impl_obj.goto(
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_page.py", line 560, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_frame.py", line 156, in goto
+    await self._channel.send(
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prath\AppData\Roaming\Python\Python311\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_ABORTED at https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+Call log:
+  - navigating to "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform", waiting until "load"
+
+[2026-08-26 13:21:01] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_132101.json
+[2026-08-26 13:21:01] [ERROR] Execution terminated with error: Page.goto: net::ERR_ABORTED at https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+Call log:
+  - navigating to "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform", waiting until "load"
+
+[2026-08-26 13:21:03] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:21:03] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:21:03] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:21:04] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:21:04] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:21:07] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:21:07] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:21:07] [INFO] Processing form Page #1...
+[2026-08-26 13:21:08] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:21:08] [INFO]   -> Chosen answer: Player 1 (Reasoning: Personal/demographic standard input)
+[2026-08-26 13:21:08] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:21:10] [INFO]   -> Search performed for 'What movie does this quote come from   Nobody puts Baby in a corner.' (6 snippets)
+[2026-08-26 13:21:10] [INFO]   -> Chosen answer: Dirty Dancing (Reasoning: Search grounded ranking (Score: 310.0))
+[2026-08-26 13:21:10] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:21:14] [INFO]   -> Search performed for 'Who killed Inigo Montoya s father' (6 snippets)
+[2026-08-26 13:21:14] [INFO]   -> Chosen answer: The Six Fingered Man (Reasoning: Search grounded ranking (Score: 36.0))
+[2026-08-26 13:21:14] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:21:17] [INFO]   -> Search performed for 'Finish the lyrics   Just a small town girl, living in a lonely world. She took the midnight train going' (6 snippets)
+[2026-08-26 13:21:17] [INFO]   -> Chosen answer: anywhere (Reasoning: Search grounded ranking (Score: 332.0))
+[2026-08-26 13:21:17] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:21:20] [INFO]   -> Search performed for 'In the movie  Independence Day,  Will Smith recieves a rejection letter from which US governement program' (6 snippets)
+[2026-08-26 13:21:20] [INFO]   -> Chosen answer: The FBI (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:21:20] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:21:22] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (6 snippets)
+[2026-08-26 13:21:22] [INFO]   -> Chosen answer: One Direction (Reasoning: Search grounded ranking (Score: 277.0))
+[2026-08-26 13:21:22] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:21:28] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:21:28] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:21:32] [INFO]   -> Search performed for 'What state is this  (Hint  This is where TWD is filmed)' (6 snippets)
+[2026-08-26 13:21:32] [INFO]   -> Chosen answer: Georgia (Reasoning: Search grounded ranking (Score: 276.0))
+[2026-08-26 13:21:32] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:21:35] [INFO]   -> Search performed for 'Who is this' (6 snippets)
+[2026-08-26 13:21:35] [INFO]   -> Chosen answer: The Fonz (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:21:35] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:21:41] [INFO]   -> Search performed for 'What is the alternate world called in' (6 snippets)
+[2026-08-26 13:21:41] [INFO]   -> Chosen answer: The Other Side (Reasoning: Search grounded ranking (Score: 14.0))
+[2026-08-26 13:21:45] [INFO] Form filled successfully! Auto-submit is disabled.
+[2026-08-26 13:21:45] [INFO] Run finished in 42.49s. Total Questions: 10, Status: filled_ready_for_review
+[2026-08-26 13:25:36] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_132536.json
+[2026-08-26 13:25:36] [INFO] Automation completed successfully. Exit code 0.
+[2026-08-26 13:26:00] [ERROR] Failed to initialize answer engine (gemini): GEMINI_API_KEY is not set.
+[2026-08-26 13:26:39] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:26:39] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:26:39] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=True)...
+[2026-08-26 13:26:39] [INFO] [Browser Status] Active page loaded in persistent profile (headless=True)
+[2026-08-26 13:26:39] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:26:40] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:26:40] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:26:40] [INFO] Processing form Page #1...
+[2026-08-26 13:26:41] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:26:41] [INFO]   -> Chosen answer: Player 1 (Reasoning: Personal/demographic standard input)
+[2026-08-26 13:26:41] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:26:45] [INFO]   -> Search performed for 'What movie does this quote come from   Nobody puts Baby in a corner.' (6 snippets)
+[2026-08-26 13:26:45] [INFO]   -> Chosen answer: Dirty Dancing (Reasoning: Search grounded ranking (Score: 904.0))
+[2026-08-26 13:26:45] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:26:50] [ERROR] Failed to initialize answer engine (gemini): GEMINI_API_KEY is not set.
+[2026-08-26 13:26:50] [INFO]   -> Chosen answer: Fezzick (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:26:50] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:26:55] [INFO]   -> Chosen answer: to Boston (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:26:55] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:27:00] [INFO]   -> Search performed for 'In the movie  Independence Day,  Will Smith recieves a rejection letter from which US governement program' (6 snippets)
+[2026-08-26 13:27:00] [INFO]   -> Chosen answer: The FBI (Reasoning: Search grounded ranking (Score: 0.0))
+[2026-08-26 13:27:00] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:27:04] [INFO]   -> Search performed for 'Harry Styles was once a member of which of the following boy bands' (6 snippets)
+[2026-08-26 13:27:04] [INFO]   -> Chosen answer: One Direction (Reasoning: Search grounded ranking (Score: 410.0))
+[2026-08-26 13:27:04] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:27:06] [INFO]   -> Search performed for 'Where did Pee Wee Herman think his stolen bike was hidden' (6 snippets)
+[2026-08-26 13:27:06] [INFO]   -> Chosen answer: The Alamo (Reasoning: Search grounded ranking (Score: 394.0))
+[2026-08-26 13:27:06] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:27:07] [INFO]   -> Search performed for 'What state is this  (Hint  This is where TWD is filmed)' (6 snippets)
+[2026-08-26 13:27:07] [INFO]   -> Chosen answer: Georgia (Reasoning: Search grounded ranking (Score: 528.0))
+[2026-08-26 13:27:07] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:27:10] [INFO]   -> Search performed for 'Who is this' (6 snippets)
+[2026-08-26 13:27:10] [INFO]   -> Chosen answer: The Fonz (Reasoning: Recognized Arthur Fonzarelli ('The Fonz'))
+[2026-08-26 13:27:10] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:27:12] [INFO]   -> Search performed for 'What is the alternate world called in' (6 snippets)
+[2026-08-26 13:27:12] [INFO]   -> Chosen answer: The Upside Down (Reasoning: Matched Stranger Things alternate dimension ('The Upside Down'))
+[2026-08-26 13:27:17] [INFO] Form filled successfully! Auto-submit is disabled.
+[2026-08-26 13:27:17] [INFO] Run finished in 38.39s. Total Questions: 10, Status: filled_ready_for_review
+[2026-08-26 13:27:17] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\audit_log_20260826_132717.json
+[2026-08-26 13:27:17] [INFO] Automation completed successfully. Exit code 0.
+[2026-08-26 13:27:27] [ERROR] Failed to initialize answer engine (gemini): GEMINI_API_KEY is not set.
+[2026-08-26 13:31:05] [INFO] Initializing browser automation for form: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:31:05] [INFO] [Persistent Profile] Using profile directory: 'D:\PROJECTS\GOOGLEFORMS\.browser_profile'
+[2026-08-26 13:31:05] [INFO] [Browser Launch] Starting 'Google Chrome (Installed)' (type=chromium, channel=chrome, headless=False)...
+[2026-08-26 13:31:05] [INFO] [Browser Status] Active page loaded in persistent profile (headless=False)
+[2026-08-26 13:31:05] [INFO] Navigating to form URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform
+[2026-08-26 13:31:07] [INFO] [Playwright Page Active] Current Page URL: https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform | Page Title: 'Super Pop Culture Trivia'
+[2026-08-26 13:31:07] [INFO] Loaded Form: 'Super Pop Culture Trivia'
+[2026-08-26 13:31:07] [INFO] Processing form Page #1...
+[2026-08-26 13:31:08] [INFO] Generating answer for Q#0: 'Enter your Nickname' (Type: short_answer)
+[2026-08-26 13:31:10] [INFO]   -> Chosen answer: As an AI, I do not have a personal nickname. (Reasoning: The question asks for a personal nickname, and as an AI, I do not possess one.)
+[2026-08-26 13:31:10] [INFO] Generating answer for Q#1: 'What movie does this quote come from: "Nobody puts Baby in a corner."' (Type: multiple_choice)
+[2026-08-26 13:31:18] [INFO]   -> Chosen answer: Dirty Dancing (Reasoning: The famous quote 'Nobody puts Baby in a corner' is from the 1987 film 'Dirty Dancing'.)
+[2026-08-26 13:31:18] [INFO] Generating answer for Q#2: 'Who killed Inigo Montoya's father?' (Type: multiple_choice)
+[2026-08-26 13:31:26] [INFO]   -> Chosen answer: The Six Fingered Man (Reasoning: In 'The Princess Bride,' Inigo Montoya's father was killed by the six-fingered man, Count Tyrone Rugen.)
+[2026-08-26 13:31:26] [INFO] Generating answer for Q#3: 'Finish the lyrics: "Just a small town girl, living in a lonely world. She took the midnight train going ___________"' (Type: multiple_choice)
+[2026-08-26 13:31:36] [INFO]   -> Chosen answer: anywhere (Reasoning: The lyrics to Journey's 'Don't Stop Believin'' complete the line with 'She took the midnight train going anywhere'.)
+[2026-08-26 13:31:36] [INFO] Generating answer for Q#4: 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (Type: multiple_choice)
+[2026-08-26 13:31:42] [INFO]   -> Search performed for 'In the movie "Independence Day," Will Smith recieves a rejection letter from which US governement program?' (3 snippets)
+[2026-08-26 13:31:42] [INFO]   -> Chosen answer: NASA (Reasoning: In the movie 'Independence Day', Will Smith's character, Captain Steven Hiller, receives a rejection letter from NASA for his astronaut application.)
+[2026-08-26 13:31:42] [INFO] Generating answer for Q#5: 'Harry Styles was once a member of which of the following boy bands' (Type: multiple_choice)
+[2026-08-26 13:31:49] [INFO]   -> Chosen answer: One Direction (Reasoning: Harry Styles gained global recognition as a member of the boy band One Direction.)
+[2026-08-26 13:31:49] [INFO] Generating answer for Q#6: 'Where did Pee Wee Herman think his stolen bike was hidden?' (Type: multiple_choice)
+[2026-08-26 13:31:54] [INFO]   -> Chosen answer: The Alamo (Reasoning: Fallback due to Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 965.913972ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}})
+[2026-08-26 13:31:54] [INFO] Generating answer for Q#7: 'What state is this? (Hint: This is where TWD is filmed)' (Type: multiple_choice)
+[2026-08-26 13:32:00] [INFO]   -> Chosen answer: Alabama (Reasoning: Fallback due to Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 55.136323802s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}})
+[2026-08-26 13:32:00] [INFO] Generating answer for Q#8: 'Who is this?' (Type: multiple_choice)
+[2026-08-26 13:32:06] [INFO]   -> Chosen answer: The Fonz (Reasoning: Fallback due to Gemini API error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 49.749883024s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}})
+[2026-08-26 13:32:06] [INFO] Generating answer for Q#9: 'What is the alternate world called in' (Type: multiple_choice)
+[2026-08-26 13:32:17] [INFO]   -> Search performed for 'What is the alternate world called in' (3 snippets)
+[2026-08-26 13:32:17] [INFO]   -> Chosen answer: The Upside Down (Reasoning: While the question is incomplete, 'The Upside Down' from *Stranger Things* is a highly prominent and widely recognized example of an 'alternate world' or 'parallel dimension' in popular culture, making it the most plausible choice among the options.)
+[2026-08-26 13:32:22] [INFO] Form filled successfully! Auto-submit is disabled.
+[2026-08-26 13:32:22] [INFO] Run finished in 76.99s. Total Questions: 10, Status: filled_ready_for_review
+[2026-08-26 13:32:43] [INFO] Structured audit log written to: D:\PROJECTS\GOOGLEFORMS\form_audit_latest.json
+[2026-08-26 13:32:43] [INFO] Automation completed successfully. Exit code 0.

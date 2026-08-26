@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:29:46.948086+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
+    "dry_run": true,
+    "engine": "MockAnswerEngine",
+    "browser": "chromium",
+    "completed_at": "2026-08-26T07:30:27.195300+00:00",
+    "duration_seconds": 40.25
+  },
+  "form_details": {
+    "title": "Super Pop Culture Trivia",
+    "description": null
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "questions_count": 10,
+      "questions": [
+        {
+          "index": 0,
+          "text": "Enter your Nickname",
+          "type": "short_answer",
+          "options": [],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 1,
+          "text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Look Who's Talking",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Footloose",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Say Anything",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dirty Dancing",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 2,
+          "text": "Who killed Inigo Montoya's father?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Fezzick",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Six Fingered Man",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Prince Humperdink",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Dread Pirate Roberts",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 3,
+          "text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "to Boston",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "anywhere",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "downtown",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 4,
+          "text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The FBI",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The CIA",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "NASA",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "SETI (Search for Extra-Terrestrial Intelligence)",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 5,
+          "text": "Harry Styles was once a member of which of the following boy bands",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Duran Duran",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Tears for Fears",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "One Direction",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dexy's Midnight Runners",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 6,
+          "text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Alamo",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Empire State Building",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "In the Grand Canyon",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "At Hogwart's School of Witchcraft & Wizardry",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 7,
+          "text": "What state is this? (Hint: This is where TWD is filmed)",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Alabama",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Mississippi",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Georgia",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Kentucky",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 8,
+          "text": "Who is this?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Fonz",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Vinnie Barbarino",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Danny Zucko",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 9,
+          "text": "What is the alternate world called in",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Everworld",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Bad Place",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "The Upside Down",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Other Side",
+              "is_other": true
+            }
+          ],
+          "required": false,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        }
+      ],
+      "answers": [
+        {
+          "question_index": 0,
+          "chosen_answer": "Automated test response",
+          "option_key": null,
+          "reasoning": "Mock generated response for short_answer question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 1,
+          "chosen_answer": "Look Who's Talking",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 2,
+          "chosen_answer": "Fezzick",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": true,
+          "search_query": "Who killed Inigo Montoya's father?",
+          "search_results": [
+            "Mock search result snippet for 'Who killed Inigo Montoya's father?'"
+          ]
+        },
+        {
+          "question_index": 3,
+          "chosen_answer": "to Boston",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 4,
+          "chosen_answer": "The FBI",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 5,
+          "chosen_answer": "Duran Duran",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": true,
+          "search_query": "Harry Styles was once a member of which of the following boy bands",
+          "search_results": [
+            "Mock search result snippet for 'Harry Styles was once a member of which of the following boy bands'"
+          ]
+        },
+        {
+          "question_index": 6,
+          "chosen_answer": "The Alamo",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 7,
+          "chosen_answer": "Alabama",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 8,
+          "chosen_answer": "The Fonz",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": true,
+          "search_query": "Who is this?",
+          "search_results": [
+            "Mock search result snippet for 'Who is this?'"
+          ]
+        },
+        {
+          "question_index": 9,
+          "chosen_answer": "The Everworld",
+          "option_key": "A",
+          "reasoning": "Mock generated response for multiple_choice question",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        }
+      ],
+      "fill_results": [
+        {
+          "question_index": 0,
+          "question_text": "Enter your Nickname",
+          "status": "error: Locator.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[role=\\\"listitem\\\"], div[jsmodel][data-item-id], div.Qr7Oae, div.geS5nc\").first.locator(\"input[type=\\\"text\\\"], input.whsOnd\").first\n    - locator resolved to <input disabled dir=\"auto\" type=\"text\" required=\"\" tabindex=\"0\" jsname=\"YPqjbf\" autocomplete=\"off\" aria-disabled=\"true\" class=\"whsOnd zHQkBf\" data-initial-value=\"\" aria-labelledby=\"i1 i4\" data-initial-dir=\"auto\" aria-describedby=\"i2 i3\"/>\n    - fill(\"Automated test response\")\n  - attempting fill action\n    2 × waiting for element to be visible, enabled and editable\n      - element is not enabled\n    - retrying fill action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and editable\n      - element is not enabled\n    - retrying fill action\n      - waiting 100ms\n    60 × waiting for element to be visible, enabled and editable\n       - element is not enabled\n     - retrying fill action\n       - waiting 500ms\n",
+          "chosen_answer": "Automated test response"
+        },
+        {
+          "question_index": 1,
+          "question_text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Look Who's Talking",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 2,
+          "question_text": "Who killed Inigo Montoya's father?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Fezzick",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 3,
+          "question_text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "to Boston",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 4,
+          "question_text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The FBI",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 5,
+          "question_text": "Harry Styles was once a member of which of the following boy bands",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Duran Duran",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 6,
+          "question_text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Alamo",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 7,
+          "question_text": "What state is this? (Hint: This is where TWD is filmed)",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Alabama",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 8,
+          "question_text": "Who is this?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Fonz",
+          "reasoning": "Mock generated response for multiple_choice question"
+        },
+        {
+          "question_index": 9,
+          "question_text": "What is the alternate world called in",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Everworld",
+          "reasoning": "Mock generated response for multiple_choice question"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_questions": 10,
+    "answered_questions": 10,
+    "submission_status": "dry_run_success",
+    "submission_details": {
+      "submitted": false,
+      "dry_run": true,
+      "status": "dry_run_success",
+      "message": "Dry-run execution completed. Form was filled but not submitted."
+    }
+  }
+}

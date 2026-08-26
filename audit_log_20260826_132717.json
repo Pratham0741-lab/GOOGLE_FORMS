@@ -1,0 +1,572 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:56:39.058149+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
+    "auto_submit": false,
+    "dry_run": false,
+    "engine": "SearchGroundedAnswerEngine",
+    "browser": "chrome",
+    "completed_at": "2026-08-26T07:57:17.448880+00:00",
+    "duration_seconds": 38.39
+  },
+  "form_details": {
+    "title": "Super Pop Culture Trivia",
+    "description": null
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "questions_count": 10,
+      "questions": [
+        {
+          "index": 0,
+          "text": "Enter your Nickname",
+          "type": "short_answer",
+          "options": [],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 1,
+          "text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Look Who's Talking",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Footloose",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Say Anything",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dirty Dancing",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 2,
+          "text": "Who killed Inigo Montoya's father?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Fezzick",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Six Fingered Man",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Prince Humperdink",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Dread Pirate Roberts",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 3,
+          "text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "to Boston",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "anywhere",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "downtown",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 4,
+          "text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The FBI",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The CIA",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "NASA",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "SETI (Search for Extra-Terrestrial Intelligence)",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 5,
+          "text": "Harry Styles was once a member of which of the following boy bands",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Duran Duran",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Tears for Fears",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "One Direction",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dexy's Midnight Runners",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 6,
+          "text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Alamo",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Empire State Building",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "In the Grand Canyon",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "At Hogwart's School of Witchcraft & Wizardry",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 7,
+          "text": "What state is this? (Hint: This is where TWD is filmed)",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Alabama",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Mississippi",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Georgia",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Kentucky",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 8,
+          "text": "Who is this?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Fonz",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Vinnie Barbarino",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Danny Zucko",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 9,
+          "text": "What is the alternate world called in",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Everworld",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Bad Place",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "The Upside Down",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Other Side",
+              "is_other": true
+            }
+          ],
+          "required": false,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        }
+      ],
+      "answers": [
+        {
+          "question_index": 0,
+          "chosen_answer": "Player 1",
+          "option_key": null,
+          "reasoning": "Personal/demographic standard input",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 1,
+          "chosen_answer": "Dirty Dancing",
+          "option_key": "D",
+          "reasoning": "Search grounded ranking (Score: 904.0)",
+          "search_performed": true,
+          "search_query": "What movie does this quote come from   Nobody puts Baby in a corner.",
+          "search_results": [
+            "Title: Dirty Dancing (1987) - Quotes - IMDb\nSnippet: Dirty Dancing: Directed by Emile Ardolino. With Patrick Swayze, Jennifer Grey, Jerry Orbach, Cynthia Rhodes. Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.\nURL: https://www.imdb.com/title/tt0092890/quotes/",
+            "Title: What Does Nobody Puts Baby in the Corner Mean? - Writing ...Why Patrick Swayze hated 'Nobody puts Baby in the corner ...Nobody puts Baby in the corner: Meaning & OriginView Quote ... Dirty Dancing ... Movie Quotes Database15 iconic lines from films that have entered everyday use\nSnippet: Definition:Nobody should force a talented person to not participate in an activity by using their talent. See full list on writingexplained.org This expression is a famous quote from the 1987 film Dirty Dancing. This film is about a young woman, named Baby, who went on vacation with her parents to a resort. She learns to dance from one of the dancing instructors there, Johnny, and they develop a romantic relationship. At the end of the vacation, Baby was supposed to perform a dance, but he... See full list on writingexplained.org In this conversation, two high school students are babysitting one of the girl’s cousins. Lisa: Where is your cousin? She was just crawling on the kitchen floor a moment ago. Annie: I’m not sure. Now that she learned how to walk, she’s so fast. Oh, here she is. Maybe I’ll just put her in her playpen in the corner so we don’t have to watch her so cl... See full list on writingexplained.org This excerpt is from an article about the 30-year anniversary of Dirty Dancing, and why the movie still resonates today. 1. “Nobody puts Baby in a corner” is still one of the greatest lines of all time. When Johnny pulls Baby out of the shadows and onto the stage, we still somehow have all the feels. –USA Today This excerpt is about an actress who ... See full list on writingexplained.org The expression nobody puts Baby in a corner is a well-known quote from the 1987 movie Dirty Dancing. See full list on writingexplained.org Sep 12, 2019 · At first... Patrick Swayze - who passed away 10 years ago this week - starred as Johnny Castle in the 1987 classic movie Dirty Dancing opposite Jennifer Grey as Frances 'Baby' Houseman. Arguably the most famous moment from the hugely popular film is Johnny's line \"Nobody puts Baby in the corner.\" Jan 6, 2020 · The original ‘nobody puts baby in a corner’ has been replaced by ‘nobody puts baby in the corner’. To summarize, ‘Nobody puts Baby in the corner’ is a famous movie quote from the final scene of the 1987 movie, Dirty Dancing. Movie Quotes Database. Nobody puts Baby in the corner. Note: ranked #98 in the American Film Institute's list of the top 100 movie quotations in American cinema. Nobody puts Baby in a corner This phrase is said by the late Patrick Swayze’s Johnny Castle in the 1987 iconic rom-com Dirty Dancing. In the film, Johnny returns to Kellerman's holiday resort, where he has been sacked because of his relationship with guest Francis Houseman, known as Baby.\nURL: https://writingexplained.org/idiom-dictionary/nobody-puts-baby-in-the-corner",
+            "Title: Why Patrick Swayze hated 'Nobody puts Baby in the corner ...Nobody puts Baby in the corner: Meaning & OriginView Quote ... Dirty Dancing ... Movie Quotes Database15 iconic lines from films that have entered everyday use\nSnippet: Sep 12, 2019 · At first... Patrick Swayze - who passed away 10 years ago this week - starred as Johnny Castle in the 1987 classic movie Dirty Dancing opposite Jennifer Grey as Frances 'Baby' Houseman. Arguably the most famous moment from the hugely popular film is Johnny's line \"Nobody puts Baby in the corner.\" Jan 6, 2020 · The original ‘nobody puts baby in a corner’ has been replaced by ‘nobody puts baby in the corner’. To summarize, ‘Nobody puts Baby in the corner’ is a famous movie quote from the final scene of the 1987 movie, Dirty Dancing. Movie Quotes Database. Nobody puts Baby in the corner. Note: ranked #98 in the American Film Institute's list of the top 100 movie quotations in American cinema. Nobody puts Baby in a corner This phrase is said by the late Patrick Swayze’s Johnny Castle in the 1987 iconic rom-com Dirty Dancing. In the film, Johnny returns to Kellerman's holiday resort, where he has been sacked because of his relationship with guest Francis Houseman, known as Baby.\nURL: https://www.smoothradio.com/news/entertainment/patrick-swayze-nobody-baby-corner-dirty-dancing/",
+            "Title: Nobody puts Baby in the corner: Meaning & Origin\nSnippet: Jan 6, 2020 · The original ‘nobody puts baby in a corner’ has been replaced by ‘nobody puts baby in the corner’. To summarize, ‘Nobody puts Baby in the corner’ is a famous movie quote from the final scene of the 1987 movie, Dirty Dancing.\nURL: https://thewordcounter.com/nobody-puts-baby-in-corner/",
+            "Title: View Quote ... Dirty Dancing ... Movie Quotes Database\nSnippet: Movie Quotes Database. Nobody puts Baby in the corner. Note: ranked #98 in the American Film Institute's list of the top 100 movie quotations in American cinema.\nURL: https://www.moviequotedb.com/movies/dirty-dancing/quote_6654.html",
+            "Title: 15 iconic lines from films that have entered everyday use\nSnippet: Nobody puts Baby in a corner This phrase is said by the late Patrick Swayze’s Johnny Castle in the 1987 iconic rom-com Dirty Dancing. In the film, Johnny returns to Kellerman's holiday resort, where he has been sacked because of his relationship with guest Francis Houseman, known as Baby.\nURL: https://www.nationalworld.com/culture/film/famous-film-phrases-meaning-hasta-la-vista-nobody-puts-baby-in-a-corner-film-movie-sayings-iconic-4268564"
+          ]
+        },
+        {
+          "question_index": 2,
+          "chosen_answer": "Fezzick",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": false,
+          "search_query": "Who killed Inigo Montoya s father",
+          "search_results": null
+        },
+        {
+          "question_index": 3,
+          "chosen_answer": "to Boston",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": false,
+          "search_query": "Finish the lyrics   Just a small town girl, living in a lonely world. She took the midnight train going",
+          "search_results": null
+        },
+        {
+          "question_index": 4,
+          "chosen_answer": "The FBI",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": true,
+          "search_query": "In the movie  Independence Day,  Will Smith recieves a rejection letter from which US governement program",
+          "search_results": [
+            "Title: Independence Day (1996 film) - Wikipedia\nSnippet: U.S. Defense Secretary Albert Nimziki reveals that a government faction has been involved in a UFO conspiracy since 1947, when one of the invaders' fighters crashed near Roswell, New Mexico. Area 51 houses the refurbished ship and three alien corpses from the crash.\nURL: https://en.wikipedia.org/wiki/Independence_Day_(1996_film)",
+            "Title: 53 Independence Day Trivia Questions & Answers | Movies H-K\nSnippet: 1 day ago · Capt. Steve Hiller (Will Smith) & Jasmine (Vivica A. Fox) are asleep when the alien ship arrives in Los Angeles. Steve asks if it's an earthquake and Jasmine says the above line.\nURL: https://www.funtrivia.com/en/Movies/Independence-Day-5467.html",
+            "Title: Independence Day (1996) - Trivia - IMDb\nSnippet: According to producer/co-writer Dean Devlin, the U.S. military had agreed to support the film by allowing the crew to film at military bases, consulting the actors who have military roles, etc. However, after learning of the Area 51 references in the script, they withdrew their support.\nURL: https://www.imdb.com/title/tt0116629/trivia/",
+            "Title: Independence Day (1996) summary & plot - Spoiler Town\nSnippet: May 24, 2026 · In a rousing speech that would be quoted for decades, President Whitmore declares July 4th humanity’s “Independence Day” and personally leads a squadron of fighter jets.\nURL: https://spoilertown.com/independence-day-1996/",
+            "Title: Independence Day | Independence Day Series Wiki | Fandom\nSnippet: Through Secretary of Defense Albert Nimziki, Whitmore and the others have learned that a faction of the government has been involved in a UFO conspiracy since 1947, when one of the invaders' spacecraft crashed in Roswell.\nURL: https://independence-day-series.fandom.com/wiki/Independence_Day",
+            "Title: 31 Facts About The Movie Independence Day\nSnippet: Oct 3, 2023 · Independence Day popularized Will Smith’s catchphrase “Welcome to Earth!” which became one of his most memorable lines in his career. Independence Day: Resurgence faced a long delay in development, with the sequel being released 20 years after the original film.\nURL: https://facts.net/movie/31-facts-about-the-movie-independence-day/"
+          ]
+        },
+        {
+          "question_index": 5,
+          "chosen_answer": "One Direction",
+          "option_key": "C",
+          "reasoning": "Search grounded ranking (Score: 410.0)",
+          "search_performed": true,
+          "search_query": "Harry Styles was once a member of which of the following boy bands",
+          "search_results": [
+            "Title: Harry Styles - Wikipedia\nSnippet: 2.12010–2015: The X Factorand One Direction. 2.22016–2018: Harry Stylesand Dunkirk. 2.32019–2021: Fine Line. 2.42022–2024: Harry's Houseand further acting roles. 2.52025–present: Kiss All the Time. Disco, Occasionally. 3Artistry.\nURL: https://en.wikipedia.org/wiki/Harry_Styles",
+            "Title: One Direction - Wikipedia\nSnippet: One Direction, often shortened to 1D, were an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik (until his departure in 2015).\nURL: https://en.wikipedia.org/wiki/One_Direction",
+            "Title: Harry Styles | Boybands Wiki | Fandom\nSnippet: Styles' musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member of the band had been eliminated from the solo contest.\nURL: https://boybands.fandom.com/wiki/Harry_Styles",
+            "Title: Harry Styles - PopIndustry Wiki\nSnippet: Harry Edward Styles (born February 1, 1994) is an English singer-songwriter, musician, and actor. He first rose to fame after performing covers of popular songs at multiple talent shows when he was younger, and when he joined the boy band One Direction, who went on to become one of the most...\nURL: https://popindustry.fandom.com/wiki/Harry_Styles",
+            "Title: List of Harry Styles band members - FamousFix List\nSnippet: Styles's musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member of the band had been eliminated from the solo contest.\nURL: https://www.famousfix.com/list/harry-styles-band-members",
+            "Title: what boy band was harry styles in - trendsmask.com\nSnippet: Harry Styles first rose to global fame as a member of the British-Irish boy band One Direction, formed on the UK talent show The X Factor in 2010. The group included Niall Horan, Liam Payne, Louis Tomlinson and Zayn Malik.\nURL: https://trendsmask.com/what-boy-band-was-harry-styles-in-492827.html"
+          ]
+        },
+        {
+          "question_index": 6,
+          "chosen_answer": "The Alamo",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 394.0)",
+          "search_performed": true,
+          "search_query": "Where did Pee Wee Herman think his stolen bike was hidden",
+          "search_results": [
+            "Title: Pee-wee's Big Adventure - Wikipedia\nSnippet: Pee-wee's Big Adventure is a 1985 American adventure comedy film directed by Tim Burton in his feature-film directorial debut. The film stars Paul Reubens as Pee-wee Herman, along with Elizabeth Daily, Mark Holton, Diane Salinger and Judd Omen. The screenplay, written by Reubens with Phil Hartman and Michael Varhol, tells the story of Pee-wee's search for his stolen bicycle. Following the ...\nURL: https://en.wikipedia.org/wiki/Pee-wee's_Big_Adventure",
+            "Title: Quick Answer: Did Pee Wee Herman Bike Have A Name\nSnippet: Oct 29, 2021 · Where did Pee-wee Herman think his stolen bike was hidden *? Ruby, spying Al and Moe’s Bargain Basement across the street, tells Pee-wee that his bike is in the basement of the Alamo Mission in San Antonio.\nURL: https://bikehike.org/did-pee-wee-herman-bike-have-a-name/",
+            "Title: Pee-wee's Big Adventure (1985) - Plot - IMDb\nSnippet: Down on his luck, Pee-Wee wanders the rainy streets of town - scaring off a small gang merely by hissing at them - and visits a phony psychic, who convinces Pee-Wee that his bike is in the basement of The Alamo.\nURL: https://www.imdb.com/title/tt0089791/plotsummary/",
+            "Title: Quick Answer: Who Stole Pee Wee Herman's Bike - BikeHikePee-wee's Big Adventure - WikipediaPee-wee’s Big Adventure Synopsis & Review: Plot SummaryPee-wee's Big Adventure (1985) - FAQ - IMDbPee-wee Herman's Famous Red Bike Is Headed to the Alamo\nSnippet: Plot Summary (5) The love of Pee-wee Herman’s life is his bicycle. When it is stolen, he is send on a wild cross country adventure after a fortune teller tells him his bicycle is in the basement of the Alamo. See full list on bikehike.org Pee-wee’s nemesis, the spoiled Francis Buxton (played by Mark Holton), originally stole Pee-wee’s bicycle, setting the plot in motion. From Warner Bros. See full list on bikehike.org Tanaka, who also played Subzero in The Running Man, passed away at 70 in 2000 from heart failure. Carmen Flipi as Hobo Joe in ‘Pee-wee’s Big Adventure. See full list on bikehike.org In the case of this movie, the object of that desire is, of course, an immaculately restored, cherry-red 1947 Schwinn racing bike. The eccentric is Paul Reubens himself. See full list on bikehike.org The drive-in, where the Hollywood version of Pee-Wee’s Big Adventure (with James Brolin and Morgan Fairchild) premieres, is no more. It was the Studio Drive-In, which stood at 5250 Sepulveda Boulevard in Culver City. It closed in 1993, and was demolished five years later. See full list on bikehike.org Mark Douglas Holton (born April 2, 1958) is an American actor, best known for portraying Francis Buxton in Pee-wee’s Big Adventure (1985), Chubby in the Teen Wolf film series and Ozzie Jones in Leprechaun (1993), and Leprechaun Returns (2018). See full list on bikehike.org Thirty-five years ago marked the beginning of one of the most fruitful and creative musical partnerships in cinema — between Danny Elfman, the eccentric frontman of Los Angeles new wave band Oingo Boingo, and director Tim Burton — when Burton’s Pee-wee’s Big Adventure hit theaters. See full list on bikehike.org Paul Reubens Net Worth: Paul Reubens, also known by his character/alter ego, “Pee-Wee Herman”, is an American comedian, actor and television personality who has a net worth of $5 million dollars.Paul Reubens Net Worth. Net Worth: $5 Million Gender: Male Height: 5 ft 10 in (1.78 m). See full list on bikehike.org Western Flyer was an American private label brand of bicycles, tricycles, scooters, play wagons, and pedal cars and tractors, and roller skates, sold by the former Western Auto stores. See full list on bikehike.org Mission Hills. The bar where Pee-wee does almost gets pummeled by a bunch of bikers and then does his famous “Tequila” dance is now a Mexican restaurant and market located in Santa Clarita. You won’t find a line of motorcycles outside today, but mind your step all the same. Santa Clarita. See full list on bikehike.org Pee-wee's Big Adventure is a 1985 American adventure comedy film directed by Tim Burton in his feature-film directorial debut. The film stars Paul Reubens as Pee-wee Herman, along with Elizabeth Daily, Mark Holton, Diane Salinger and Judd Omen. The screenplay, written by Reubens with Phil Hartman and Michael Varhol, tells the story of Pee-wee's search for his stolen bicycle. Following the ... Driven by desperation, Pee-wee embarks on a cross-country adventure to recover his stolen bike. He consults a phony psychic who tells him the bike is hidden in the basement of the Alamo. This sets him on a wild goose chase filled with bizarre encounters and surreal situations. One day, his happy go lucky life is shattered in a senseless moment, when he comes out of a bike shop only to find that his favorite bicycle has been stolen. Suspecting his greedy rival and bully Francis Buxton (Mark Holton) stole his bicycle for himself, but denies it. Jul 21, 2025 · In the movie, Pee-wee (played by the late Paul Reubens) embarks on a wild quest across the country to recover his stolen bicycle — which, at one point, he believes is hidden in the Alamo’s basement.\nURL: https://bikehike.org/who-stole-pee-wee-hermans-bike/",
+            "Title: Pee-wee’s Big Adventure Synopsis & Review: Plot Summary\nSnippet: Driven by desperation, Pee-wee embarks on a cross-country adventure to recover his stolen bike. He consults a phony psychic who tells him the bike is hidden in the basement of the Alamo. This sets him on a wild goose chase filled with bizarre encounters and surreal situations.\nURL: https://synopsisandreviews.com/pee-wees-big-adventure-synopsis-review-plot-summary/",
+            "Title: Pee-wee's Big Adventure (1985) - FAQ - IMDb\nSnippet: One day, his happy go lucky life is shattered in a senseless moment, when he comes out of a bike shop only to find that his favorite bicycle has been stolen. Suspecting his greedy rival and bully Francis Buxton (Mark Holton) stole his bicycle for himself, but denies it.\nURL: https://www.imdb.com/title/tt0089791/faq/"
+          ]
+        },
+        {
+          "question_index": 7,
+          "chosen_answer": "Georgia",
+          "option_key": "C",
+          "reasoning": "Search grounded ranking (Score: 528.0)",
+          "search_performed": true,
+          "search_query": "What state is this  (Hint  This is where TWD is filmed)",
+          "search_results": [
+            "Title: Where Was The Walking Dead Filmed? Complete Location Guide\nSnippet: Apr 18, 2026 · The majority of filming took place in Georgia, but a few scenes were shot in other states. Early episodes used some North Carolina locations before the production fully shifted to Georgia.\nURL: https://grahmsguide.com/where-was-walking-dead-filmed/",
+            "Title: The Walking Dead Locations -- TWDLocations.com\nSnippet: Shooting locations around Georgia for AMC's \"The Walking Dead\" television show. This map shows known filming locations only.\nURL: https://www.twdlocations.com/",
+            "Title: The real-life locations where The Walking Dead was filmedThe Walking Dead Locations - TV Series Locations - LatLongGeorgia's 'Hollywood Of The South' Is A Town Serving Iconic ...\nSnippet: Aug 29, 2023 · On The Walking Dead, the town stood in for the fortified city of Woodbury in season 3, as well as the walled-off Alexandria safe zone, where Senoia displayed its acting range by depicting a city in... The Walking Dead was filmed in Atlanta, Senoia, Peachtree City, Newnan, Jekyll Island, Griffin, Sharpsburg, Palmetto, Douglas County, Haralson, and Milner, Georgia, USA. Nov 11, 2025 · In a small town in Georgia, just 50 minutes' drive south of Atlanta, it's not one film that is making waves, but several, and they are giving the area the nickname of \"Hollywood of the South.\"\nURL: https://ew.com/tv/walking-dead-filming-locations/",
+            "Title: Locations (TV Series) | Walking Dead Wiki | Fandom\nSnippet: Harrison Memorial Hospital is located in King County, Georgia. It is the town's local hospital and it is where Rick is brought after he is shot. Some time after the outbreak started the military began evacuating and executing patients and hospital staff alike.\nURL: https://walkingdead.fandom.com/wiki/Locations_(TV_Series)",
+            "Title: The Walking Dead: A Fan's Perfect Movie Location Guide\nSnippet: Jan 25, 2022 · It was shot in several locations in the state of Georgia, with most of the scenes filmed in Senoia and Atlanta. Today, people can find events, tours, and accommodations all around Georgia, targeting The Walking Dead fans.\nURL: https://www.thetravel.com/movie-filming-guide-the-walking-dead-locations/",
+            "Title: The Walking Dead Locations - TV Series Locations - LatLong\nSnippet: The Walking Dead was filmed in Atlanta, Senoia, Peachtree City, Newnan, Jekyll Island, Griffin, Sharpsburg, Palmetto, Douglas County, Haralson, and Milner, Georgia, USA.\nURL: https://www.latlong.net/location/the-walking-dead-locations-102"
+          ]
+        },
+        {
+          "question_index": 8,
+          "chosen_answer": "The Fonz",
+          "option_key": "A",
+          "reasoning": "Recognized Arthur Fonzarelli ('The Fonz')",
+          "search_performed": true,
+          "search_query": "Who is this",
+          "search_results": [
+            "Title: Who Is This Bitch, Anyway?\nSnippet: Who Is This Bitch, Anyway? is an album by American vocalist Marlena Shaw recorded in 1974 and released on the Blue Note label.\nURL: https://en.wikipedia.org/wiki/Who_Is_This_Bitch,_Anyway?",
+            "Title: Free Whois Lookup - Whois IP Search & Whois Domain Lookup ...\nSnippet: Whois.com allows you to trace the ownership and tenure of a domain name or an IP address. Enter the domain or IP address for which you would like to conduct a Whois lookup and get a recent record of the information stored in the Whois database.\nURL: https://www.whois.com/whois/",
+            "Title: Who Is This Person From Photo? - Reverse Face Search ...\nSnippet: Upload screenshots, event photos, or any face image-our AI identifies who they are by matching against 1.2 billion profiles worldwide. We search Instagram, Facebook, LinkedIn, Twitter, TikTok, YouTube, and niche platforms to find their online identity and presence.\nURL: https://socialfinder.ai/who-is-this-person-from-photo",
+            "Title: WHOIS Search, Domain Name, Website, and IP Tools - Who.is\nSnippet: Large database of whois information, RDAP, DNS, domain names, name servers, IPs, and tools for searching and monitoring domain names.\nURL: https://who.is/",
+            "Title: Name search · Who is this person? · WhoIsThis | WhoIsThis\nSnippet: Start with a name, end with a person. Each report ties the name to real identities across billions of public records — here's what usually lands. We pin the name to an actual identity — age, current city, and the aliases or spellings they go by — so you're not guessing which one it is.\nURL: https://whoisthis.io/name-lookup",
+            "Title: Who Is This? - Know Your Meme\nSnippet: Jan 21, 2026 · by Afro gospel artist Louis Pascal, featuring Edem Evangelist, which was originally released in 2022. The meme, which typically crops out the name of the artists, began appearing online in late December 2025 and January 2026, primarily in TikTok comment sections as an image and GIF.\nURL: https://knowyourmeme.com/memes/who-is-this"
+          ]
+        },
+        {
+          "question_index": 9,
+          "chosen_answer": "The Upside Down",
+          "option_key": "C",
+          "reasoning": "Matched Stranger Things alternate dimension ('The Upside Down')",
+          "search_performed": true,
+          "search_query": "What is the alternate world called in",
+          "search_results": [
+            "Title: Parallel universes in fiction - Wikipedia\nSnippet: A parallel universe, also known as an alternate universe, world, or dimension, is a plot device in fiction which uses the notion of a hypothetical universe co-existing with another, typically to enable alternative narrative possibilities.\nURL: https://en.wikipedia.org/wiki/Parallel_universes_in_fiction",
+            "Title: Alternate reality - Wikipedia\nSnippet: Alternate reality (or Alternative reality, UK English) often refers to parallel universes in fiction, a self-contained separate world, universe or reality coexisting with the real world, which is used as a recurring plot point or setting used in fantasy and science fiction.\nURL: https://en.wikipedia.org/wiki/Alternate_reality",
+            "Title: What is the meaning behind \"Alternate World\" ? - Scifi Dimensions\nSnippet: Jul 19, 2025 · The concept of an “Alternate World” – often called an alternate reality, parallel universe, or even branching timeline – is a powerful and enduring one in human imagination.\nURL: https://www.scifidimensions.com/what-is-the-meaning-behind-alternate-world/",
+            "Title: What is another word for \"alternate universe\"? - WordHippo\nSnippet: Find 6 synonyms for \"alternate universe\" and other similar words that you can use instead from our thesaurus..\nURL: https://www.wordhippo.com/what-is/another-word-for/alternate_universe.html",
+            "Title: Parallel World - JoJo's Bizarre Encyclopedia - JoJo Wiki\nSnippet: Parallel Worlds (並行世界, Heikō Sekai), also referred to as Neighboring Worlds (隣りの世界, Tonari no Sekai), Other Dimensions (異次元, Ijigen), or Alternate Universes, are physical dimensions that co-exist and operate independently of each other.\nURL: https://jojowiki.com/Parallel_World",
+            "Title: The Alternate Universe | Beyond Universe Wiki | Fandom\nSnippet: Fiction has long borrowed the idea of \"another world\" from myth, legend, and religion. Heaven, Hell, Olympus, and Valhalla are all \"alternative universes\" different from the familiar material realm.\nURL: https://beyond-universe.fandom.com/wiki/The_Alternate_Universe"
+          ]
+        }
+      ],
+      "fill_results": [
+        {
+          "question_index": 0,
+          "question_text": "Enter your Nickname",
+          "question_type": "short_answer",
+          "status": "filled_short_text_success",
+          "chosen_answer": "Player 1",
+          "reasoning": "Personal/demographic standard input"
+        },
+        {
+          "question_index": 1,
+          "question_text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Dirty Dancing",
+          "reasoning": "Search grounded ranking (Score: 904.0)"
+        },
+        {
+          "question_index": 2,
+          "question_text": "Who killed Inigo Montoya's father?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Fezzick",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 3,
+          "question_text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "to Boston",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 4,
+          "question_text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The FBI",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 5,
+          "question_text": "Harry Styles was once a member of which of the following boy bands",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "One Direction",
+          "reasoning": "Search grounded ranking (Score: 410.0)"
+        },
+        {
+          "question_index": 6,
+          "question_text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Alamo",
+          "reasoning": "Search grounded ranking (Score: 394.0)"
+        },
+        {
+          "question_index": 7,
+          "question_text": "What state is this? (Hint: This is where TWD is filmed)",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Georgia",
+          "reasoning": "Search grounded ranking (Score: 528.0)"
+        },
+        {
+          "question_index": 8,
+          "question_text": "Who is this?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Fonz",
+          "reasoning": "Recognized Arthur Fonzarelli ('The Fonz')"
+        },
+        {
+          "question_index": 9,
+          "question_text": "What is the alternate world called in",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Upside Down",
+          "reasoning": "Matched Stranger Things alternate dimension ('The Upside Down')"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_questions": 10,
+    "answered_questions": 10,
+    "submission_status": "filled_ready_for_review",
+    "submission_details": {
+      "submitted": false,
+      "auto_submit": false,
+      "status": "filled_ready_for_review",
+      "message": "All questions were filled in the browser. Form kept open for user review."
+    }
+  }
+}

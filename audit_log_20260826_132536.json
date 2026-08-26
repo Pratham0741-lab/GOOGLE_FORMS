@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:51:03.453344+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
+    "auto_submit": false,
+    "dry_run": false,
+    "engine": "SearchGroundedAnswerEngine",
+    "browser": "chrome",
+    "completed_at": "2026-08-26T07:51:45.948263+00:00",
+    "duration_seconds": 42.49
+  },
+  "form_details": {
+    "title": "Super Pop Culture Trivia",
+    "description": null
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "questions_count": 10,
+      "questions": [
+        {
+          "index": 0,
+          "text": "Enter your Nickname",
+          "type": "short_answer",
+          "options": [],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 1,
+          "text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Look Who's Talking",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Footloose",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Say Anything",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dirty Dancing",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 2,
+          "text": "Who killed Inigo Montoya's father?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Fezzick",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Six Fingered Man",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Prince Humperdink",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Dread Pirate Roberts",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 3,
+          "text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "to Boston",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "anywhere",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "downtown",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 4,
+          "text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The FBI",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The CIA",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "NASA",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "SETI (Search for Extra-Terrestrial Intelligence)",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 5,
+          "text": "Harry Styles was once a member of which of the following boy bands",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Duran Duran",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Tears for Fears",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "One Direction",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dexy's Midnight Runners",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 6,
+          "text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Alamo",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Empire State Building",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "In the Grand Canyon",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "At Hogwart's School of Witchcraft & Wizardry",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 7,
+          "text": "What state is this? (Hint: This is where TWD is filmed)",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Alabama",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Mississippi",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Georgia",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Kentucky",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 8,
+          "text": "Who is this?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Fonz",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Vinnie Barbarino",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Danny Zucko",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 9,
+          "text": "What is the alternate world called in",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Everworld",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Bad Place",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "The Upside Down",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Other Side",
+              "is_other": true
+            }
+          ],
+          "required": false,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        }
+      ],
+      "answers": [
+        {
+          "question_index": 0,
+          "chosen_answer": "Player 1",
+          "option_key": null,
+          "reasoning": "Personal/demographic standard input",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 1,
+          "chosen_answer": "Dirty Dancing",
+          "option_key": "D",
+          "reasoning": "Search grounded ranking (Score: 310.0)",
+          "search_performed": true,
+          "search_query": "What movie does this quote come from   Nobody puts Baby in a corner.",
+          "search_results": [
+            "Title: What Does Nobody Puts Baby in the Corner Mean? - Writing Explained\nSnippet: October 27, 2017 - Jessica Biel made quite an entrance for her appearance on The Ellen DeGeneres Show on Thursday, September 14, by nailing the iconic lift from the movie Dirty Dancing. After successfully recreating the dance move, she even credited her husband ...\nURL: https://writingexplained.org/idiom-dictionary/nobody-puts-baby-in-the-corner",
+            "Title: Why Patrick Swayze hated 'Nobody puts Baby in the corner' line from Dirty Dancing, and what changed his mind\nSnippet: February 10, 2026 - Nobody Puts Baby in a Corner - Dirty Dancing (11/12) Movie CLIP (1987) HD · By the end of the movie, Johnny realises how strong Baby is, particular after Johnny is blamed for stealing, and she admits he couldn't have done it as she had spent ...\nURL: https://www.smoothradio.com/news/entertainment/patrick-swayze-nobody-baby-corner-dirty-dancing/",
+            "Title: Nobody puts Baby in a corner. - Dirty Dancing Quotes\nSnippet: Nobody puts Baby in a corner. ... FamilyLoveRelationshipDirty DancingRomanticExperienceStrengthMovieAssorted Movie CharacterMotivational · This line is spoken by Johnny Castle, played by Patrick Swayze, in the film Dirty Dancing, directed by Emile Ardolino (1987).\nURL: https://www.shmoop.com/quotes/nobody-puts-baby-in-the-corner.html",
+            "Title: Rediscovering The Iconic Phrase: Nobody Puts Baby In The Corner-\nSnippet: The continued popularity of \"Dirty Dancing\" and its unforgettable moments ensures that this phrase will remain relevant for years to come. In conclusion, \"nobody puts baby in the corner\" is more than just a quote from a beloved film; it embodies ... Published: January 30, 2026\nURL: https://missions.cafe/newserx/15469-rediscovering-the-iconic-phrase-nobody-puts-baby-in-the-corner",
+            "Title: Nobody Puts Baby in the Corner! – Noteworthy Mommy\nSnippet: January 24, 2017 - The line “Nobody puts Baby in the corner” was made popular by the movie Dirty Dancing staring Patrick Swayze and Jennifer Grey. It was delivered by Johny (Patrick Swayze) when he takes Baby’s (Jennifer Grey) hand and says to her dad — ...\nURL: https://noteworthymommy.com/2017/01/24/nobody-puts-baby-in-the-corner/",
+            "Title: This Iconic 'Dirty Dancing' Line Is So Much More Empowering Than You Realized\nSnippet: August 21, 2017 - Many iconic moments in Dirty Dancing have contributed to the film's enduring legacy: \"I carried a watermelon,\" crawling on the floor to \"Love Is Strange,\" the lift. But the moment that has stood out beyond all the rest is Johnny's line, \"Nobody ...\nURL: https://www.bustle.com/p/this-iconic-dirty-dancing-line-is-so-much-more-empowering-than-you-realized-76563"
+          ]
+        },
+        {
+          "question_index": 2,
+          "chosen_answer": "The Six Fingered Man",
+          "option_key": "B",
+          "reasoning": "Search grounded ranking (Score: 36.0)",
+          "search_performed": true,
+          "search_query": "Who killed Inigo Montoya s father",
+          "search_results": [
+            "Title: Inigo Montoya - Wikipedia\nSnippet: Rugen begs for his life and offers to give Inigo anything he wants before trying to attack him again; Inigo catches Rugen's sword arm and replies, \"I want my father back, you son of a bitch,\" as he kills him.\nURL: https://en.wikipedia.org/wiki/Inigo_Montoya",
+            "Title: Domingo Montoya - Princess Bride Wiki\nSnippet: \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die.\" - Inigo Montoya to the six-fingered man. Domingo Montoya was a master swordsmith, and the father of Inigo Montoya. Domingo remained obscure because he disliked dealing with the stupid rich and privileged.\nURL: https://princessbride.fandom.com/wiki/Domingo_Montoya",
+            "Title: Who is Inigo Montoya, and who killed his father? - Reddit\nSnippet: Since other people haven't really answered the questions.... he's the son of a swordsmith. Count Rugen the six-fingered man killed his father, after refusing to pay for one of the best swords ever made.\nURL: https://www.reddit.com/r/OutOfTheLoop/comments/5gso5a/who_is_inigo_montoya_and_who_killed_his_father/",
+            "Title: Domingo Montoya | Princess Bride Wiki | Fandom\nSnippet: Domingo Montoya was the father of the Spanish swordsman, Inigo, who dedicated his life to revenge after Domingo was killed by Count Tyrone Rugen. During the rescue of Buttercup, Inigo faced Rugen and killed him in a duel, avenging Domingo's death.\nURL: https://princessbride.fandom.com/wiki/Domingo_Montoya_(film)",
+            "Title: In “The Princess Bride” Inigo Montoya’s father was murdered ...\nSnippet: Feb 21, 2026 · In “The Princess Bride” Inigo Montoya’s father was murdered for not selling the sword he made for only one tenth of the price agreed upon. His son attempted vengeance and was defeated, leaving him with a scarred face.\nURL: https://www.facebook.com/groups/tcmfansite/posts/2585502695224661/",
+            "Title: The Real Story Behind That Inigo Montoya Scene in ... - Collider\nSnippet: May 10, 2024 · While Patinkin has had numerous memorable roles over the years, it is his heroic character's unforgettable quest to avenge his father that stands out for many. The iconic line, \"Hello, my name is...\nURL: https://collider.com/inigo-montoya-princess-bride/"
+          ]
+        },
+        {
+          "question_index": 3,
+          "chosen_answer": "anywhere",
+          "option_key": "B",
+          "reasoning": "Search grounded ranking (Score: 332.0)",
+          "search_performed": true,
+          "search_query": "Finish the lyrics   Just a small town girl, living in a lonely world. She took the midnight train going",
+          "search_results": [
+            "Title: Journey – Don't Stop Believin' Lyrics | Genius Lyrics\nSnippet: Don't Stop Believin' Lyrics: Just a small-town girl / Livin' in a lonely world / She took the midnight train goin' anywhere / Just a city boy / Born and raised in...\nURL: https://genius.com/Journey-dont-stop-believin-lyrics",
+            "Title: Journey - Don't Stop Believin' Lyrics | AZLyrics.com\nSnippet: Just a small-town girl Livin' in a lonely world She took the midnight train goin' anywhere Just a city boy Born and raised in South Detroit He took the midnight train goin' anywhere A singer in a smokey room The smell of wine and cheap perfume For a smile they can share the night It goes on and on, and on, and on Strangers waiting Up and down ...\nURL: https://www.azlyrics.com/lyrics/journey/dontstopbelievin.html",
+            "Title: Lyrics for Don't Stop Believin' by Journey - Songfacts\nSnippet: He took the midnight train goin' anywhere (Neal) A singer in a smoky room The smell of wine and cheap perfume For a smile, they can share the night It goes on and on and on and on Strangers waiting Up and down the boulevard Their shadows searching in the night Streetlights, people Living just to find emotion Hiding somewhere in the night\nURL: https://www.songfacts.com/lyrics/journey/dont-stop-believin",
+            "Title: Journey-Dont Stop Believing (official song) with lyrics - YouTubeDon't Stop Believin' - Journey (Lyrics) - YouTubeJourney - Don’t Stop Believin’ Lyrics & MeaningJourney – Don’t Stop Believin’ (Live) (Unreleased) Lyrics ...\nSnippet: May 13, 2008 · Dont stop believing Just a small town girl livin in a lonely world she took the midnight train going anywhere just a city boy born and raised in south detroit he... Apr 23, 2023 · Don't Stop Believin' by Journey (Lyrics) Just a small town girl Livin' in a lonely world She took the midnight train going anywhere Just a city boy Born and raised in... Journey presents a collection of people in motion: a small-town girl taking a midnight train, a city boy catching the same train going anywhere, and others gathered in a smoky room where the music plays. Mar 24, 1998 · Don’t Stop Believin’ (Live) (Unreleased) Lyrics: Just a small-town girl, livin' in a lonely world / She took the midnight train goin' anywhere / Just a city boy,...\nURL: https://www.youtube.com/watch?v=N5wVZwdHmRY",
+            "Title: Don't Stop Believin' - Journey (Lyrics) - YouTubeJourney - Don’t Stop Believin’ Lyrics & MeaningJourney – Don’t Stop Believin’ (Live) (Unreleased) Lyrics ...\nSnippet: Apr 23, 2023 · Don't Stop Believin' by Journey (Lyrics) Just a small town girl Livin' in a lonely world She took the midnight train going anywhere Just a city boy Born and raised in... Journey presents a collection of people in motion: a small-town girl taking a midnight train, a city boy catching the same train going anywhere, and others gathered in a smoky room where the music plays. Mar 24, 1998 · Don’t Stop Believin’ (Live) (Unreleased) Lyrics: Just a small-town girl, livin' in a lonely world / She took the midnight train goin' anywhere / Just a city boy,...\nURL: https://www.youtube.com/watch?v=faibK7SSQ_A",
+            "Title: Journey - Don’t Stop Believin’ Lyrics & Meaning\nSnippet: Journey presents a collection of people in motion: a small-town girl taking a midnight train, a city boy catching the same train going anywhere, and others gathered in a smoky room where the music plays.\nURL: https://www.songlyrics.com/journey/don-t-stop-believin-lyrics/"
+          ]
+        },
+        {
+          "question_index": 4,
+          "chosen_answer": "The FBI",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": true,
+          "search_query": "In the movie  Independence Day,  Will Smith recieves a rejection letter from which US governement program",
+          "search_results": [
+            "Title: Independence Day (1996 film) - Wikipedia\nSnippet: 2 weeks ago - Independence Day is a 1996 American science fiction action film directed by Roland Emmerich, written by Emmerich and the film's producer Dean Devlin, and starring an ensemble cast that consists of Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell, Judd Hirsch, Margaret Colin, Randy Quaid, ...\nURL: https://en.wikipedia.org/wiki/Independence_Day_(1996_film)",
+            "Title: ‘Independence Day’: Will Smith almost lost role due to studio’s racial bias - Meristation\nSnippet: July 5, 2024 - This is clear from a statement Roland Emmerich himself made to The Hollywood Reporter (via Entertainment Weekly) on the 25th anniversary of the film’s premiere, in which he assured that 20th Century Fox initially rejected the idea of Will ...\nURL: https://en.as.com/meristation/news/independence-day-will-smith-almost-lost-role-due-to-studios-racial-bias-n/",
+            "Title: The Troubling Reason Will Smith Almost Wasn't In The Sci-Fi Hit Independence Day - SlashFilm\nSnippet: August 4, 2024 - According to an oral history of \"Independence Day\" printed in The Hollywood Reporter in 2021, Smith was nearly rejected by Fox studio executives as they didn't think \"a Black guy\" would attract international viewers.\nURL: https://www.slashfilm.com/1626564/sci-fi-independence-day-will-smith-casting-troubles/",
+            "Title: The Will Smith Sci-Fi Movie That Lost Potential Military Backing Over One Story Detail - BGR\nSnippet: March 12, 2026 - The U.S. military reportedly offered help on \"Independence Day\" but pulled out after the filmmakers kept this Area 51 plot twist in the script.\nURL: https://www.bgr.com/2113414/will-smith-sci-fi-movie-independence-day-lost-military-backing-story-detail/",
+            "Title: 'Independence Day' Team Reveal Studio Refused Will Smith Over Racism\nSnippet: July 2, 2021 - While discussing the film’s casting, the duo recalled studio executives at 20th Century Fox refusing their pitch to cast Will Smith in the lead role due to the racist Hollywood ideology that audiences in foreign markets don’t show up to ...\nURL: https://www.indiewire.com/features/general/independence-day-studio-refused-will-smith-racism-1234648383/",
+            "Title: r/MovieDetails on Reddit: In Independence Day (1996) they filmed Will Smith dragging the alien across the salt flats of Utah. Will Smith improvised the \"And what the hell is that smell?\" Nobody warned him of the horrible smell that sometimes comes of the Great Salt Lake due to billions of dead brine shrimp each year.\nSnippet: December 31, 2019 - TIL that the movie \"Independence Day\" was originally meant to have support from the United States Armed Forces, but they backed out when the references to Area 51 were not removed from the script ...\nURL: https://www.reddit.com/r/MovieDetails/comments/eia335/in_independence_day_1996_they_filmed_will_smith/"
+          ]
+        },
+        {
+          "question_index": 5,
+          "chosen_answer": "One Direction",
+          "option_key": "C",
+          "reasoning": "Search grounded ranking (Score: 277.0)",
+          "search_performed": true,
+          "search_query": "Harry Styles was once a member of which of the following boy bands",
+          "search_results": [
+            "Title: Harry Styles - Wikipedia\nSnippet: 3 weeks ago - Harry Edward Styles (born 1 February 1994) is an English singer, songwriter, and actor. An influential figure in popular culture, he is known for his showmanship, artistry, and flamboyant fashion. Styles's musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member ...\nURL: https://en.wikipedia.org/wiki/Harry_Styles",
+            "Title: One Direction - Wikipedia\nSnippet: 2 weeks ago - The band went on an indefinite hiatus in January 2016, allowing all members to pursue solo projects. Niall Horan, Zayn Malik, Liam Payne, Harry Styles, and Louis Tomlinson auditioned as solo candidates for the 2010 series of the British singing competition The X Factor. They all failed to progress in the \"Boys...\nURL: https://en.wikipedia.org/wiki/One_Direction",
+            "Title: Harry Styles - Simple English Wikipedia, the free encyclopedia\nSnippet: 2 weeks ago - Harry Edward Styles (born 1 February 1994) is an English singer, songwriter, and actor. He is known as a member of the boy band One Direction, with Louis Tomlinson, Liam Payne, Niall Horan and Zayn Malik (2010–2016).\nURL: https://simple.wikipedia.org/wiki/Harry_Styles",
+            "Title: Harry Styles | Songs, Albums, As It Was, Movies, One Direction, & Family | Britannica\nSnippet: 4 days ago - One DirectionFormed in 2010 on the British television show The X Factor, One Direction became one of the best-selling boy bands of all time. Pictured here are the band's members (from left) Niall Horan, Liam Payne, Zayn Malik, Louis Tomlinson, ...\nURL: https://www.britannica.com/biography/Harry-Styles",
+            "Title: The New Harry Styles Album Drops March 6. Here’s What He’s Been Up To the Last Four Years.\nSnippet: February 27, 2026 - British singer Harry Styles rose to fame with the boy band One Direction and has acted in movies including Dunkirk and Don’t Worry Darling. By Biography.com Editors, Tyler PiccottiUpdated: Feb 27, 2026 2:58 PM EST ...\nURL: https://www.biography.com/musicians/harry-styles",
+            "Title: Harry Styles | One Direction Wiki | Fandom\nSnippet: July 6, 2026 - Styles' musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member of the band had been eliminated from the solo contest.\nURL: https://onedirection.fandom.com/wiki/Harry_Styles"
+          ]
+        },
+        {
+          "question_index": 6,
+          "chosen_answer": "The Alamo",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": false,
+          "search_query": "Where did Pee Wee Herman think his stolen bike was hidden",
+          "search_results": null
+        },
+        {
+          "question_index": 7,
+          "chosen_answer": "Georgia",
+          "option_key": "C",
+          "reasoning": "Search grounded ranking (Score: 276.0)",
+          "search_performed": true,
+          "search_query": "What state is this  (Hint  This is where TWD is filmed)",
+          "search_results": [
+            "Title: Where Was The Walking Dead Filmed? Complete Location Guide\nSnippet: Apr 18, 2026 · The majority of filming took place in Georgia, but a few scenes were shot in other states. Early episodes used some North Carolina locations before the production fully shifted to Georgia.\nURL: https://grahmsguide.com/where-was-walking-dead-filmed/",
+            "Title: The Walking Dead Locations -- TWDLocations.com\nSnippet: Shooting locations around Georgia for AMC's \"The Walking Dead\" television show. This map shows known filming locations only.\nURL: https://www.twdlocations.com/",
+            "Title: The real-life locations where The Walking Dead was filmedThe Walking Dead Locations - TV Series Locations - LatLongGeorgia's 'Hollywood Of The South' Is A Town Serving Iconic ...\nSnippet: Aug 29, 2023 · On The Walking Dead, the town stood in for the fortified city of Woodbury in season 3, as well as the walled-off Alexandria safe zone, where Senoia displayed its acting range by depicting a city in... The Walking Dead was filmed in Atlanta, Senoia, Peachtree City, Newnan, Jekyll Island, Griffin, Sharpsburg, Palmetto, Douglas County, Haralson, and Milner, Georgia, USA. Nov 11, 2025 · In a small town in Georgia, just 50 minutes' drive south of Atlanta, it's not one film that is making waves, but several, and they are giving the area the nickname of \"Hollywood of the South.\"\nURL: https://ew.com/tv/walking-dead-filming-locations/",
+            "Title: Locations (TV Series) | Walking Dead Wiki | Fandom\nSnippet: Harrison Memorial Hospital is located in King County, Georgia. It is the town's local hospital and it is where Rick is brought after he is shot. Some time after the outbreak started the military began evacuating and executing patients and hospital staff alike.\nURL: https://walkingdead.fandom.com/wiki/Locations_(TV_Series)",
+            "Title: The Walking Dead: A Fan's Perfect Movie Location Guide\nSnippet: Jan 25, 2022 · It was shot in several locations in the state of Georgia, with most of the scenes filmed in Senoia and Atlanta. Today, people can find events, tours, and accommodations all around Georgia, targeting The Walking Dead fans.\nURL: https://www.thetravel.com/movie-filming-guide-the-walking-dead-locations/",
+            "Title: The Walking Dead Locations - TV Series Locations - LatLong\nSnippet: The Walking Dead was filmed in Atlanta, Senoia, Peachtree City, Newnan, Jekyll Island, Griffin, Sharpsburg, Palmetto, Douglas County, Haralson, and Milner, Georgia, USA.\nURL: https://www.latlong.net/location/the-walking-dead-locations-102"
+          ]
+        },
+        {
+          "question_index": 8,
+          "chosen_answer": "The Fonz",
+          "option_key": "A",
+          "reasoning": "Search grounded ranking (Score: 0.0)",
+          "search_performed": true,
+          "search_query": "Who is this",
+          "search_results": [
+            "Title: Who Is This Bitch, Anyway?\nSnippet: Who Is This Bitch, Anyway? is an album by American vocalist Marlena Shaw recorded in 1974 and released on the Blue Note label.\nURL: https://en.wikipedia.org/wiki/Who_Is_This_Bitch,_Anyway?",
+            "Title: Free Whois Lookup - Whois IP Search & Whois Domain Lookup ...\nSnippet: Whois.com allows you to trace the ownership and tenure of a domain name or an IP address. Enter the domain or IP address for which you would like to conduct a Whois lookup and get a recent record of the information stored in the Whois database.\nURL: https://www.whois.com/whois/",
+            "Title: Who Is This Person From Photo? - Reverse Face Search ...\nSnippet: Upload screenshots, event photos, or any face image-our AI identifies who they are by matching against 1.2 billion profiles worldwide. We search Instagram, Facebook, LinkedIn, Twitter, TikTok, YouTube, and niche platforms to find their online identity and presence.\nURL: https://socialfinder.ai/who-is-this-person-from-photo",
+            "Title: WHOIS Search, Domain Name, Website, and IP Tools - Who.is\nSnippet: Large database of whois information, RDAP, DNS, domain names, name servers, IPs, and tools for searching and monitoring domain names.\nURL: https://who.is/",
+            "Title: Name search · Who is this person? · WhoIsThis | WhoIsThis\nSnippet: Start with a name, end with a person. Each report ties the name to real identities across billions of public records — here's what usually lands. We pin the name to an actual identity — age, current city, and the aliases or spellings they go by — so you're not guessing which one it is.\nURL: https://whoisthis.io/name-lookup",
+            "Title: Who Is This? - Know Your Meme\nSnippet: Jan 21, 2026 · by Afro gospel artist Louis Pascal, featuring Edem Evangelist, which was originally released in 2022. The meme, which typically crops out the name of the artists, began appearing online in late December 2025 and January 2026, primarily in TikTok comment sections as an image and GIF.\nURL: https://knowyourmeme.com/memes/who-is-this"
+          ]
+        },
+        {
+          "question_index": 9,
+          "chosen_answer": "The Other Side",
+          "option_key": "D",
+          "reasoning": "Search grounded ranking (Score: 14.0)",
+          "search_performed": true,
+          "search_query": "What is the alternate world called in",
+          "search_results": [
+            "Title: Parallel universes in fiction - Wikipedia\nSnippet: A parallel universe, also known as an alternate universe, world, or dimension, is a plot device in fiction which uses the notion of a hypothetical universe co-existing with another, typically to enable alternative narrative possibilities.\nURL: https://en.wikipedia.org/wiki/Parallel_universes_in_fiction",
+            "Title: Alternate reality - Wikipedia\nSnippet: Alternate reality (or Alternative reality, UK English) often refers to parallel universes in fiction, a self-contained separate world, universe or reality coexisting with the real world, which is used as a recurring plot point or setting used in fantasy and science fiction.\nURL: https://en.wikipedia.org/wiki/Alternate_reality",
+            "Title: What is the meaning behind \"Alternate World\" ? - Scifi Dimensions\nSnippet: Jul 19, 2025 · The concept of an “Alternate World” – often called an alternate reality, parallel universe, or even branching timeline – is a powerful and enduring one in human imagination.\nURL: https://www.scifidimensions.com/what-is-the-meaning-behind-alternate-world/",
+            "Title: What is another word for \"alternate universe\"? - WordHippo\nSnippet: Find 6 synonyms for \"alternate universe\" and other similar words that you can use instead from our thesaurus..\nURL: https://www.wordhippo.com/what-is/another-word-for/alternate_universe.html",
+            "Title: Parallel World - JoJo's Bizarre Encyclopedia - JoJo Wiki\nSnippet: Parallel Worlds (並行世界, Heikō Sekai), also referred to as Neighboring Worlds (隣りの世界, Tonari no Sekai), Other Dimensions (異次元, Ijigen), or Alternate Universes, are physical dimensions that co-exist and operate independently of each other.\nURL: https://jojowiki.com/Parallel_World",
+            "Title: The Alternate Universe | Beyond Universe Wiki | Fandom\nSnippet: Fiction has long borrowed the idea of \"another world\" from myth, legend, and religion. Heaven, Hell, Olympus, and Valhalla are all \"alternative universes\" different from the familiar material realm.\nURL: https://beyond-universe.fandom.com/wiki/The_Alternate_Universe"
+          ]
+        }
+      ],
+      "fill_results": [
+        {
+          "question_index": 0,
+          "question_text": "Enter your Nickname",
+          "question_type": "short_answer",
+          "status": "filled_short_text_success",
+          "chosen_answer": "Player 1",
+          "reasoning": "Personal/demographic standard input"
+        },
+        {
+          "question_index": 1,
+          "question_text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Dirty Dancing",
+          "reasoning": "Search grounded ranking (Score: 310.0)"
+        },
+        {
+          "question_index": 2,
+          "question_text": "Who killed Inigo Montoya's father?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Six Fingered Man",
+          "reasoning": "Search grounded ranking (Score: 36.0)"
+        },
+        {
+          "question_index": 3,
+          "question_text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "anywhere",
+          "reasoning": "Search grounded ranking (Score: 332.0)"
+        },
+        {
+          "question_index": 4,
+          "question_text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The FBI",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 5,
+          "question_text": "Harry Styles was once a member of which of the following boy bands",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "One Direction",
+          "reasoning": "Search grounded ranking (Score: 277.0)"
+        },
+        {
+          "question_index": 6,
+          "question_text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Alamo",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 7,
+          "question_text": "What state is this? (Hint: This is where TWD is filmed)",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Georgia",
+          "reasoning": "Search grounded ranking (Score: 276.0)"
+        },
+        {
+          "question_index": 8,
+          "question_text": "Who is this?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Fonz",
+          "reasoning": "Search grounded ranking (Score: 0.0)"
+        },
+        {
+          "question_index": 9,
+          "question_text": "What is the alternate world called in",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Other Side",
+          "reasoning": "Search grounded ranking (Score: 14.0)"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_questions": 10,
+    "answered_questions": 10,
+    "submission_status": "filled_ready_for_review",
+    "submission_details": {
+      "submitted": false,
+      "auto_submit": false,
+      "status": "filled_ready_for_review",
+      "message": "All questions were filled in the browser. Form kept open for user review."
+    }
+  }
+}

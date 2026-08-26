@@ -1,0 +1,535 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:43:46.961553+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
+    "auto_submit": false,
+    "dry_run": false,
+    "engine": "ClaudeAnswerEngine",
+    "browser": "chrome",
+    "completed_at": "2026-08-26T07:44:13.258582+00:00",
+    "duration_seconds": 26.3
+  },
+  "form_details": {
+    "title": "Super Pop Culture Trivia",
+    "description": null
+  },
+  "pages": [
+    {
+      "page_number": 1,
+      "questions_count": 10,
+      "questions": [
+        {
+          "index": 0,
+          "text": "Enter your Nickname",
+          "type": "short_answer",
+          "options": [],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 1,
+          "text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Look Who's Talking",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Footloose",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Say Anything",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dirty Dancing",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 2,
+          "text": "Who killed Inigo Montoya's father?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Fezzick",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Six Fingered Man",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Prince Humperdink",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Dread Pirate Roberts",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 3,
+          "text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "to Boston",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "anywhere",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "downtown",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 4,
+          "text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The FBI",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The CIA",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "NASA",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "SETI (Search for Extra-Terrestrial Intelligence)",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 5,
+          "text": "Harry Styles was once a member of which of the following boy bands",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Duran Duran",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Tears for Fears",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "One Direction",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Dexy's Midnight Runners",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 6,
+          "text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Alamo",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Empire State Building",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "In the Grand Canyon",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "At Hogwart's School of Witchcraft & Wizardry",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 7,
+          "text": "What state is this? (Hint: This is where TWD is filmed)",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "Alabama",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Mississippi",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Georgia",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "Kentucky",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 8,
+          "text": "Who is this?",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Fonz",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "Vinnie Barbarino",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "Danny Zucko",
+              "is_other": false
+            }
+          ],
+          "required": true,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        },
+        {
+          "index": 9,
+          "text": "What is the alternate world called in",
+          "type": "multiple_choice",
+          "options": [
+            {
+              "index": 0,
+              "key": "A",
+              "text": "The Everworld",
+              "is_other": false
+            },
+            {
+              "index": 1,
+              "key": "B",
+              "text": "The Bad Place",
+              "is_other": false
+            },
+            {
+              "index": 2,
+              "key": "C",
+              "text": "The Upside Down",
+              "is_other": false
+            },
+            {
+              "index": 3,
+              "key": "D",
+              "text": "The Other Side",
+              "is_other": true
+            }
+          ],
+          "required": false,
+          "description": null,
+          "scale_range": null,
+          "scale_labels": null
+        }
+      ],
+      "answers": [
+        {
+          "question_index": 0,
+          "chosen_answer": "Sample response",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 1,
+          "chosen_answer": "Look Who's Talking",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 2,
+          "chosen_answer": "Fezzick",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": true,
+          "search_query": "Who killed Inigo Montoya's father?",
+          "search_results": [
+            "Title: Inigo Montoya - Wikipedia\nSnippet: 3 weeks ago - That night, Inigo joins Westley to fight Humperdinck, and finally confronts his father's killer with repeated recitations of the words he had waited half his life to say: Hello. My name is Inigo Montoya. You killed my father.\nURL: https://en.wikipedia.org/wiki/Inigo_Montoya",
+            "Title: Domingo Montoya | Princess Bride Wiki | Fandom\nSnippet: 1 month ago - Inigo spent the next 20 years looking for Rugen to avenge his father's death.\nURL: https://princessbride.fandom.com/wiki/Domingo_Montoya",
+            "Title: Inigo Montoya | Princess Bride Wiki | Fandom\nSnippet: 1 month ago - That night, Inigo joins Westley to fight Humperdinck, and finally confronts his father's killer with the words he had waited half his life to say: \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die.\" Rugen runs away. Inigo chases him throughout the castle until Rugen suddenly throws a knife at him and seriously wounds him, mocking his quest as he prepares to deliver the fatal blow.\nURL: https://princessbride.fandom.com/wiki/Inigo_Montoya"
+          ]
+        },
+        {
+          "question_index": 3,
+          "chosen_answer": "to Boston",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 4,
+          "chosen_answer": "The FBI",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 5,
+          "chosen_answer": "One Direction",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": true,
+          "search_query": "Harry Styles was once a member of which of the following boy bands",
+          "search_results": [
+            "Title: Harry Styles - Wikipedia\nSnippet: 2.12010–2015: The X Factorand One Direction. 2.22016–2018: Harry Stylesand Dunkirk. 2.32019–2021: Fine Line. 2.42022–2024: Harry's Houseand further acting roles. 2.52025–present: Kiss All the Time. Disco, Occasionally. 3Artistry.\nURL: https://en.wikipedia.org/wiki/Harry_Styles",
+            "Title: One Direction - Wikipedia\nSnippet: One Direction, often shortened to 1D, were an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik (until his departure in 2015).\nURL: https://en.wikipedia.org/wiki/One_Direction",
+            "Title: Harry Styles | Boybands Wiki | Fandom\nSnippet: Styles' musical career began in 2010 as part of One Direction, a boy band formed on the British music competition series The X Factor after each member of the band had been eliminated from the solo contest.\nURL: https://boybands.fandom.com/wiki/Harry_Styles"
+          ]
+        },
+        {
+          "question_index": 6,
+          "chosen_answer": "The Alamo",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 7,
+          "chosen_answer": "Alabama",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        },
+        {
+          "question_index": 8,
+          "chosen_answer": "The Fonz",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": true,
+          "search_query": "Who is this?",
+          "search_results": [
+            "Title: Who Is Ghislaine Maxwell?\nSnippet: Who Is Ghislaine Maxwell? is a 2022 American-British documentary television miniseries revolving around British sex trafficker Ghislaine Maxwell, directed by Erica Gornall. It consists of 3 episodes and premiered in the United States on June 26, 2022, on Starz, and in the United Kingdom on July 5, 2022, on Channel 4.\nURL: https://en.wikipedia.org/wiki/Who_Is_Ghislaine_Maxwell?",
+            "Title: WHOIS - Wikipedia\nSnippet: 2 weeks ago - The status of RFCs this group worked on can be found on the · As of March 2009, the CRISP IETF Working Group concluded, after a final RFC 5144 was published by the group. Note: The IETF CRISP working group is not to be confused with the Number Resource Organization's (NRO) Team of the same name \"Consolidated RIR IANA Stewardship Proposal Team\" (CRISP Team). In 2013, the IETF acknowledged that IRIS had not been a successful replacement for WHOIS...\nURL: https://en.wikipedia.org/wiki/WHOIS",
+            "Title: WhoIsThis · People lookup for peace of mind | WhoIsThis\nSnippet: WhoIsThis compiles information from publicly available and licensed data sources for personal, informational purposes only. WhoIsThis is not a consumer reporting agency as defined by the Fair Credit Reporting Act (FCRA), 15 U.S.C. § 1681 et ...\nURL: https://whoisthis.io/"
+          ]
+        },
+        {
+          "question_index": 9,
+          "chosen_answer": "The Everworld",
+          "option_key": null,
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)",
+          "search_performed": false,
+          "search_query": null,
+          "search_results": null
+        }
+      ],
+      "fill_results": [
+        {
+          "question_index": 0,
+          "question_text": "Enter your Nickname",
+          "question_type": "short_answer",
+          "status": "filled_short_text_success",
+          "chosen_answer": "Sample response",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 1,
+          "question_text": "What movie does this quote come from: \"Nobody puts Baby in a corner.\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Look Who's Talking",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 2,
+          "question_text": "Who killed Inigo Montoya's father?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Fezzick",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 3,
+          "question_text": "Finish the lyrics: \"Just a small town girl, living in a lonely world. She took the midnight train going ___________\"",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "to Boston",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 4,
+          "question_text": "In the movie \"Independence Day,\" Will Smith recieves a rejection letter from which US governement program?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The FBI",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 5,
+          "question_text": "Harry Styles was once a member of which of the following boy bands",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "One Direction",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 6,
+          "question_text": "Where did Pee Wee Herman think his stolen bike was hidden?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Alamo",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 7,
+          "question_text": "What state is this? (Hint: This is where TWD is filmed)",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "Alabama",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 8,
+          "question_text": "Who is this?",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Fonz",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        },
+        {
+          "question_index": 9,
+          "question_text": "What is the alternate world called in",
+          "question_type": "multiple_choice",
+          "status": "filled_radio_success",
+          "chosen_answer": "The Everworld",
+          "reasoning": "Search/Keyword grounded fallback (Claude API key unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', '...)"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_pages": 1,
+    "total_questions": 10,
+    "answered_questions": 10,
+    "submission_status": "filled_ready_for_review",
+    "submission_details": {
+      "submitted": false,
+      "auto_submit": false,
+      "status": "filled_ready_for_review",
+      "message": "All questions were filled in the browser. Form kept open for user review."
+    }
+  }
+}

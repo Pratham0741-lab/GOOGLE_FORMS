@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:40:48.961960+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/.../viewform",
+    "dry_run": false,
+    "engine": "ClaudeAnswerEngine",
+    "browser": "chrome"
+  },
+  "form_details": {
+    "title": "Page Not Found",
+    "description": null
+  },
+  "pages": [],
+  "summary": {
+    "total_pages": 0,
+    "total_questions": 0,
+    "answered_questions": 0,
+    "submission_status": "playwright_error: Locator.count: Target page, context or browser has been closed"
+  }
+}

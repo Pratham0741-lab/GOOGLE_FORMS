@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "started_at": "2026-08-26T07:50:59.142598+00:00",
+    "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
+    "auto_submit": false,
+    "dry_run": false,
+    "engine": "SearchGroundedAnswerEngine",
+    "browser": "chrome"
+  },
+  "form_details": {},
+  "pages": [],
+  "summary": {
+    "total_pages": 0,
+    "total_questions": 0,
+    "answered_questions": 0,
+    "submission_status": "playwright_error: Page.goto: net::ERR_ABORTED at https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform\nCall log:\n  - navigating to \"https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform\", waiting until \"load\"\n"
+  }
+}
