@@ -1,4 +1,4 @@
-python main.py "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform" --browser chrome{
+{
   "metadata": {
     "started_at": "2026-08-26T07:41:16.261365+00:00",
     "form_url": "https://docs.google.com/forms/d/e/1FAIpQLSdYlxIwrctHcxvs1Kwnc8FqHxQoe1CcZa26Q4aENzCFZ8-n0w/viewform",
